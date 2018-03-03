@@ -1,0 +1,94 @@
+<include file="Public:head"/>
+<include file="RentCar:menu"/>
+<style>
+.cLine {
+    overflow: hidden;
+    padding: 5px 0;
+  color:#000000;
+}
+.alert {
+padding: 8px 35px 0 10px;
+text-shadow: none;
+-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+background-color: #f9edbe;
+border: 1px solid #f0c36d;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+color: #333333;
+margin-top: 5px;
+}
+.alert p {
+margin: 0 0 10px;
+display: block;
+}
+.alert .bold{
+font-weight:bold;
+}
+</style>
+<script src="./tpl/static/artDialog/jquery.artDialog.js?skin=default"></script>
+<script src="./tpl/static/artDialog/plugins/iframeTools.js"></script>
+<div class="content">
+  <div class="cLineB">
+    <h4>设置使用微信订单管理的客服人员</h4>
+    <div class="cLine">
+    <div class="alert">
+    <p><strong><font color='red'>这里添加的客服人员具有在微信平台查看订单，派单的管理功能，授权时请谨慎！</font></strong>
+    </p>
+    </div>
+   </div>
+</div>
+
+<div class="cLine">
+<form method="post"  action="" id="info" >
+  是否授权
+  <select name="custflag">
+    <option value="0" <if condition="$flag eq 0">selected</if>>已授权</option>
+    <option value="1" <if condition="$flag eq 1">selected</if>>未授权</option>
+  </select>
+  关键词：
+  <input type="text" class="px" name="tel" value="" style="height:25px;" placeholder="请输入手机号">
+  <input type="submit" class="btnGrayS" value="搜索">
+</form>
+<div class="clr"></div>
+</div>
+<div class="msgWrap">
+<form method="post"  action="" id="info" >
+<TABLE class="ListProduct" border="0" cellSpacing="0" cellPadding="0" width="100%">
+<THEAD>
+<tr>
+<th width="80">头像</th>
+<th width="100">昵称</th>
+<th width="100">真实姓名</th>
+<th width="100">会员帐号</th>
+<th width="120">手机号</th>
+<th width="80">操作</th>
+</tr>
+</THEAD>
+<TBODY>
+<TR></TR>
+<volist name="alluser" id="vo">
+<TR>
+<TD><img src="{pigcms:$vo.portrait}" style="width:60px;height:60px;"/></TD>
+<TD>{pigcms:$vo.wechaname}</TD>
+<TD>{pigcms:$vo.truename}</TD>
+<TD>{pigcms:$vo.username}</TD>
+<TD>{pigcms:$vo.tel}</TD>
+<TD><if condition="$flag eq 0"><a href="{pigcms::U('RentCar/custservice_del',array('token'=>$vo['token'],'id'=>$vo['id']))}" class="btnGreen">移除授权</a><else/><a href="{pigcms::U('RentCar/custservice_add',array('token'=>$vo['token'],'id'=>$vo['id']))}" class="btnGreen">授权</a></if></TD>
+</TR>
+</volist>
+</TBODY>
+</TABLE>
+</form>
+
+</div>
+          <div class="cLine">
+            <div class="pageNavigator right">
+                 <div class="pages">{pigcms:$page}</div>
+            </div>
+            <div class="clr"></div>
+          </div>
+        </div>
+<include file="Public:footer"/>

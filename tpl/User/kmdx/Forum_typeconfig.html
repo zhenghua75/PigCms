@@ -1,0 +1,102 @@
+<include file="Public:head"/> 
+<link rel="stylesheet" type="text/css" href="{pigcms::RES}/css/cymain.css" />
+<script src="/tpl/static/artDialog/jquery.artDialog.js?skin=default"></script>
+<script src="/tpl/static/artDialog/plugins/iframeTools.js"></script>
+        <div class="content" <if condition="session('isQcloud') eq true">style="float:center;"</if>>
+<div class="cLineB">
+<h4 class="left">讨论社区配置</h4>
+<div class="searchbar right">
+
+
+<script>
+function selectall(name) {
+	var checkItems=$('.cbitem');
+	if ($("#check_box").attr('checked')==false) {
+		$.each(checkItems, function(i,val){
+			val.checked=false;
+		});
+		
+	} else {
+		$.each(checkItems, function(i,val){
+			val.checked=true;
+		});
+	}
+}
+</script>
+
+
+</div>
+<div class="clr"></div>
+</div>
+
+<!--tab start-->
+<div class="tab">
+<ul>
+<include file="tabs"/> 
+</ul>
+</div>
+<!--tab end-->
+<div class="msgWrap bgfc">
+  <form class="form" method="post" action="{pigcms::U('Forum/typeconfig',array('token'=>$_GET['token']))}" enctype="multipart/form-data">	 
+	<table class="userinfoArea" style=" margin:0;" border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tbody>
+			<tr>
+				<th width="120">论坛首页名称</th>
+				<td><input type="text" name="forumname" value="{pigcms:$forumhome.forumname}" class="px" style="width:250px;"></td>
+			</tr>			
+			<tr>
+				<th>论坛首页Logo：</th>
+				<td><input type="text" name="logo" id="logo" value="{pigcms:$forumhome.logo}" class="px" style="width:550px;"> <script src="/tpl/static/upyun.js"></script> <a href="###" onclick="upyunPicUpload('logo',1500,1000,'{pigcms:$token}')" class="a_upload">上传</a> <a href="###" onclick="viewImg('logo')">预览</a><br/> </td>
+			</tr>				
+			<tr>
+				<th>论坛首页自定义背景</th>
+				<td><input type="text" name="bgurl" id="bgurl" value="{pigcms:$forumhome.bgurl}" class="px" style="width:550px;">  <a href="###" onclick="upyunPicUpload('bgurl',1500,1000,'{pigcms:$token}')" class="a_upload">上传</a> <a href="###" onclick="viewImg('bgurl')">预览</a><br/> </td>
+			</tr>			
+			<th>&nbsp;</th>
+				<td>
+					<input type="hidden" name="token" value="{pigcms:$_GET['token']}" />
+					<button type="submit" class="btnGreen">保存</button>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</form>
+</div> 
+<div class="cLine">
+<div class="pageNavigator left"> <a href='/index.php?g=User&m=Forum&a=config&token={pigcms:$token}' title='新增板块' class='btnGrayS vm bigbtn'><img class="vm" src="./tpl/User/default/common/images/product/add.png">添加板块</a></div>
+</div>
+<div class="msgWrap">
+<form method="post" action="" id="info">
+	<table class="ListProduct" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<thead>
+	<tr>
+	<th width="50">编号</th>
+	<th width="250">板块名称</th>
+	<th class="250">描述</th>
+	<th class="50">状态</th>
+	<th width="80" class="norightborder">操作</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr></tr>
+
+		<volist name="list" id="fl"> 
+			<tr>
+				<td>{pigcms:$fl.id}</td>
+				<td>{pigcms:$fl.forumname}</td>
+				<td>{pigcms:$fl.intro}</td>
+				<td><if condition="$fl['isopen'] eq 0"><font color="red">关闭</font><else />开启</if></td> 
+				<td class="norightborder">
+				<a href="{pigcms::U('Forum/config',array('token'=>$_GET['token'],'id'=>$fl['id']))}');">编辑</a></td>
+			</tr>
+		</volist>
+	</tbody>
+	</table>
+<input type="hidden" name="token" value="{pigcms:$_GET['token']}" />
+
+</form>
+
+</div>
+<if condition="session('isQcloud') neq true">
+<include file="Public:footer"/>
+</if>

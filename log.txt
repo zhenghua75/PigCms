@@ -1,0 +1,1473 @@
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550332","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:12',
+  'sign' => 'zdRj80WKjLvxqtyrNAfURKvdefdl2LTS6T6CXKcf2apMI5cogJYjBSyz6Ti7RiAdwjeWf99EIQwmh2kmSjxJtgg+pL8+JupVWX+qFbtnIuITS8FH7QShSA7o53g/d0OuLfK4vntK4Qlgw+ftC4yUr3wJ0j+g1MXxx4HvmkYs/sg=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550334","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:14',
+  'sign' => 'QkUm1eZTbov50vQnNP0TgJgRq7gp490vU/8viQex1sOX460nsJF/xK7pVThDppy+NV/5W22JIRKJ6famXE+ODql7SRRifhL4h55zdQdyadJRU4Uce5QijF4QUqq/f2iUrlj5ddfRt0YNtVZdGld7EGGPZIvvDGFf6QFcBXak1Uk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550335","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:15',
+  'sign' => 'fJW7oSau/TWkCNmJDeH4AEzqyIz2rZfcwP5EOGtlfWyzD7ngcIQgac7mub0cIxThdj830q5uNwSwms4aFOIwvQ5wB5ItJfkPhxCBfxrdWQzCTROKyTAhGn6ge1xKIGvKBclzQY21/L9HnV069NbphAzE1EX5Nz2LFWfcdIuwaos=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550336","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:16',
+  'sign' => 'r/9l7bibZGi5Oaiv7hUJXcCbPeax78Xq1/nFF/6OgZecBK1Iy10+ltxYY6j9Nh2TSoPy+lFTs2oHg/6o6hdGacWvA7HCHZ1QHWYz5C1YKc/a+CX9g1fMhvWiccmxTaXS++nfBFVmXicxGFiNYH6y1bOUXSl3oy9ESr/nztLpxj0=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550337","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:17',
+  'sign' => 'wus8ZrYRDZm3tyd2AhKyMCd0R/X0HJtFaWcoyRIFsMvK9s2ngLNUgKk7/jUXdJ54zW4CqsybgWTUFYI5kYKF9Vb31Hv+dKyBx9x5maU7Dwij9aiALo7Ryhtw3aDkRszj7DT6o60JDELfYb62YgwsYohranzEpexZOAolXzEIB60=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550338","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:18',
+  'sign' => 's+ZAFG+9YPzUjdq/jR7a1AGD5LCpI5QGVcS64CIwOw94FPvuo/YZ+mriziO/fnUx140JNmYGwsS58dAeU0myKmJDjhq27vLbekKJKT196mwoUeBgm3yJbIZ39o4U1EFna5i6II47mTWVPFCvtcReiuHvrtFCsM9sKlCOym+ZeBA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550340","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:20',
+  'sign' => 'seS2yWIHexAM5XYIxtZkjIIlby4sKikddkMILH+vnUMXEIGBJMOebzEiPdgzH8lsAKhVSKGBy5SrHVeHduu1gI/UaWObkGtacKgmLkt++pYmONbdQSJPzS1azsg2HntaAj/U1id79ISBSsfEdHTMmEF8w2i3qVogMWKV71V6f58=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550340","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=QQ+EXeoDy2-rlq-CR35AFy0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"QQ+EXeoDy2-rlq-CR35AFy0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:12:20',
+  'sign' => 'b6KLWanssXtbo+WHwlZPyWxHfBY8HEXwSAuNbHPq/mg7noWSnc7bZ33xOfgUmPjPiElqJiU44yfjEd2QWlqqk2E64/W9DMZ90wGzGB9Dejbz/O1OvqmxcaI5Wb1RllfMHeWNTzLenFSxVbFwQzOfhE5dzWHdscpiN9TUOfpGT3s=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550656","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=QQ+EXeoDy2-rlq-CR35AFy0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"QQ+EXeoDy2-rlq-CR35AFy0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:17:36',
+  'sign' => 'gTu1RK5P0H5czAfVQ1TlAVzpR1wX0lW8tfpAMBRQUtfazf8mgm350aph4u0zYCGcvzV27jLg6dQsytHsNeGMrblg4915ki5uQw6sWkhE7ALntjG4ziVHVQUsqbrQjESVAcn7qmQ/qxUdY6A8SbjX6OAzLyxZhqu8rYv3ahe3bbk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425550917","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=A7Ng9bO-MR7H9RHY2qwlCC0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"A7Ng9bO-MR7H9RHY2qwlCC0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 18:21:57',
+  'sign' => 'sR+fGJsvlDMXad+EzPN11gL3W0gUuHBFC2ppBC8Rpe0MXzrO/wHrbN+EnHtigoFtKDVUzanGsdUO0L2KeIRyhJckp3B8ec6S4EGrjbDprOz+pi6dd1DaIa3X1EtcAZFn93AYwCip1e9pqUbqtSSa8M9NFd0VLOS+x1iiXef6qJk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425554988","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 19:29:48',
+  'sign' => 'zQXHwgU+Zq1ezu38ezsJqZN7MEocOInFbrTg7h4cCGFrxMy3V0L7JfM3Y4Ycm7BxWcmHfYlP5s0NRW3qZhYIZuAlee7L9Qcx2UO9sOciZSqkFB1//mGm8DeEQKrppj4tdOqTGj7jLEMjluzFWr8BSek7ULZ4kZCOvUzUxiEPUmE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425557499","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:11:39',
+  'sign' => 'pWpk8TO6VIq++YDvVQ/5ddaz1ej7hovgPvA2rWu7jeI3AF0WOl5Jx/QBds0qDOv4ZffgsTdMPCpWUu+nJ14hCFGzA0ak1XgZop+soR4fmrjxk4vsikL2lQe9ZVegEZI9Y1oSEZsH0GnGdbQdMu1JtRbQwErp5DDUCxfX8aUAntU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425557501","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:11:41',
+  'sign' => 'Uw7EWcY8GnAqLdLg9cgfRRLZLAebhoU4SXGSxEFnKfsHv/3IcoVSgkCOnNEiDipZKva0NaC642QjsI04He91/341lY6qiGMXZNCTtUC8PBJr22xLbgNIOw2Mx14GHOIiU44+cFnO0QOn5bFQbeQK6KgHSBg/GwaCayuLwPnrLmc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560026","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:46',
+  'sign' => 'EcYxbEw43WDDvafFWhsuP1dCRoGxD3DV2aws7+dche2VsloINBPHU+zK8ddReJ3nic4kGXI8lGiRzgYnOEhSePoneCYaErpiEBLEebvvPsfs44BbYHzV4edgR1XQ62NmivqTmY5SBWt97cLr6DUWUtcw/iw8lXC+y1W7ogMLDOw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560027","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:47',
+  'sign' => 'j7aMJDnaENw1IYN4JRey8CUPzOXbIoGJgimf5aDXkL+X044d1NDXjbVwmfQWtCDAxe/XNKZ9DFvzoRbeDggmcMpea6p0Dkdtvwbm/d1d1sqKmSedIg/PFWK3eU7H5mmGnSE2Z5puLmOgjsSe3asNtM/geJoqiXO5pKKhhZ7IbJE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560028","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:48',
+  'sign' => 'nGCNd1IA9bpPw923JO/oJahueIYc0IURV8vD6k7V5SPGit8HqLkg4DlXEGAnvuWjbv7mGmuLJG2hZxqC6clhAGLer8FEyDwlSgyx7W/P49nFUaUfoZfAuU+pQ+umGUW8RYK4aq0fhzryjbHEP6j094czWI+lTtcHaHTMDMoHEdc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560029","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:49',
+  'sign' => 'lPugHqYNFa6gdU2yDqTb7+auXwa6EEHcy3sF0GuTXIpOGSG22WR7Jn1lRHMq/GaChwlEx9BqGJH9Pym4UJVjw9x1rJvKz+dolBc3M7jBUQsf1/XXbhYTzS8IMoSq2J++puF1ftu9/P60fwEQxF/tcn0sn2bJrHOxWmGvpUsX3wU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560036","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:56',
+  'sign' => 'RFyBnK48G9IYTdwlRlkyI4Y52NPqFv83QrpS+i5X4liWASNtEbhvMnR05k6CJyCP6+sbojqmqT3PxdsmVPJkia5zk/44GZpwY9BDtdTqGGUU+uU9eEdQEnLwhyh+77c5RZU3aiGffr/VN18JeLyoZAR8V4UZLenElRF5Fei8nOQ=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560037","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:57',
+  'sign' => 'w82kk9SmRKMfzuUJzTNED0RP0UkEDZlKgEzlnGB++chjnPWc8I7Sfotqtw7rkb96PsHjNXvuMvhWOMgxE+4/ybNmoyW8Ye0peCPCAwqkGi/7PqPH1pdjT3wnFl8hUvQ4iI/Eb4PjUhdH2ZmLPUUQq5Jsr4zX6euvZJGgAJXom6U=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560038","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:58',
+  'sign' => 'WaoQHoW+UVvwkcEOfMshY2PRz23JcjmDoOuRcYPhnXLQyCXZ2BiBDBMX00QO+EevxzqaX0fCzU/NwmTiyvUAjRsh+sJlWG7Y5vDfkIk7NIuL8eVFGxsSEF4XAyz++qLCJrBfXfMQy0aRom/UbssT8Gwm0SHM0jB+kUSS5mVPxWY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425560039","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 20:53:59',
+  'sign' => 'JG29D7W2hzq3JUdNo3OVVua6VEQF2g+J85N+Ep/9amW1sSjMe/q+JE2VGQW7+X45F8nQLs6Ti467E/gjutAOmNvxIRI2iRgKT/vDpuwJeaDqECQnebZyqkaQwxMACcPd1TKUzr4tA0KAzkpi/39c4hQmEneWQ21El8Z2b92cXYU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567484","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 22:58:04',
+  'sign' => 'yRgWU+TxXOVbvL8uD3yJIbJiQEDoCDvGfFVAbLzTjKw0mU7j1D+7kcGQW7o2UdO+yH1V/0kh4gs4vPuQR863aONHlBB0h28LvkaxenzKf9fjX1YpoU3NL+Ra5bmmsk4sfQmRYqMB9fhuRJTG7Zikqgbdwya2rhCQTKMheka3g1c=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567876","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:36',
+  'sign' => 'tSVSC99Hvk4CXy/W4ZL65Gv4EwY98gBw+BZMbZZiTONgvv85ssWkFTyTlYUDDzmbc+jEvDATi+7G75TgVS3TT7mCuu8ufzm+uycTniyW37aFdPSMLFcm9VlfWaf147bGNVhfB51L+szH4SEqWKs+Gy4DtYaDHLEAR3ySvWRzG3E=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567876","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:36',
+  'sign' => 'tSVSC99Hvk4CXy/W4ZL65Gv4EwY98gBw+BZMbZZiTONgvv85ssWkFTyTlYUDDzmbc+jEvDATi+7G75TgVS3TT7mCuu8ufzm+uycTniyW37aFdPSMLFcm9VlfWaf147bGNVhfB51L+szH4SEqWKs+Gy4DtYaDHLEAR3ySvWRzG3E=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567878","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:38',
+  'sign' => 'GKBHAwPjV67tG5w7D5qHuQBGVXEFZkF08VMdXglvEoZsPwp9Wc3CFDnvVSlYT/S2Ci7qLAQ2zHIU3PqkUKi+tXR71BxFQMT6wW74bPdVWdF+NO4RdMpa27GmgC+h+z0AqCB5MXooqw2qkSjIO3v/0ATCLw7wRAwCXfVwQahQN/c=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567879","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:39',
+  'sign' => 'CXN8Os6ImeVzSXWLp0vaV+DewZ/g5+OWz1sO7AbffRTRgtJ2ELNaXSmyf2S8KgYvz+syrJ5vY9wYBS0wQGC/al/e99Sf5ZqRzkRHYYM8hrLA6WNfJi38ZgoVyTn7sZSPT2g/7cQD2+zSeeZY8DXD1sVuIx51DJyE/jW//KSj0Co=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567880","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:40',
+  'sign' => 'HsOJH6X/U1d35vqJKU4Z5KaVqGWO7yxpcNztdF6THW0X5aqa7QTZR7F1BVkU1K8sm31mQDuKBCfdqCh8KQF8dg7e7NCCI+yqnBTpuaG33NeR60BCR3eyzRQ8ZVMwreT7nZJJlqLuBBEUM1erIxZlKn7zXl8PPQICwHyeepudzeI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567887","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:47',
+  'sign' => 'ip9006UiBK03KDmNuG4jHalbfXnfucIAn5omROJp/G1brn0MYS4HSXgJ6j7NqrD3LNksXSn1pGv5E12lsjb19JOK7vnGv/MXSZq346BHKu8Xq0aGD7PlIVyfRkLEANDDPDi6qbl41+ozdeoRrhmcm9CYtU1UHneEK0Dki5FRGUI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567888","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:48',
+  'sign' => 'dmivshVEnQMT6y7BRj9JdHcxFAK82CgXhZWsbLPTdMT3fKgd29aRSdaXjf/DqxKSLZ88SnSF3AQaR7Bg5ig0MNvm2oH8yNcb8J4/2K4zZMWB0ZbcXyLrhU4NOq5DSU0rJC6sBw9svixyg+9htnlqxNN5B27dgOfigWgi08cRV9Y=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567889","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:49',
+  'sign' => 'Pr1iO74YeBTs7ySweFIY9sAQnKOq+5TjPogHj7imQynqeTDgQj8PSU8lhQfiZjxBXZrd+4j1MaguNI2aJR+vWX5TuX2dVQdQm/AEVVyckI/m5OvGF4i9vQSjfI9aGz3LPQppbiHvjTkoEd+X8+3QZsB4HDqYsX5yvh2SBAyTTBU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567890","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:50',
+  'sign' => 'lL0eSxFvDQhCkf3AHtmwmwVG/BkuDu2LE4LtreRzSp9Fz5iHrcJWOc46pzx9fn81+Tj/kYm0hjIXNwyT+uCL+GW276OnilkxU1jvdQMjcxRJEdJr8oZl3p96rf+JULjXaMfQ5YBH7ppKW1/Dukap6/dZbdlbFa+/hhUgonxSj2c=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425567892","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-05 23:04:52',
+  'sign' => 'TPJucp9snsDynOeFhTxmPophA2YB04JjfwB4frQyIXUVRtBcipSP9uxLSUuTYfaKzaeKvvsy3xaidTgRhkZO2JsS+AdOrFV/aYm22otPXZV2Rp0MOUnMFpEJTr1IJas5IqIgPtjNrPSaeXC3XFoatB2CJSjHmgEhO3yLH3vN1H8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425572252","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 00:17:32',
+  'sign' => 'pFeftPgs+b9P64qf3wvUhmmD3PNso6TGQ72lshicIib/zY+QjOxpSkKrnUj5ibBJyECK400PI0nqSxJSv/czXByLEuwo8+ZSB+29yQOpHV8kmQQNPK2qECuMwN8IE+V6D6L+y+QAn/3/hW2cQbr4gKA77vrJYwN0VqdY5+0ibqc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425574664","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 00:57:44',
+  'sign' => 'EeVviM644FuN8x4+uGtgPeKzke51Zma3ypGlsfCE7N8G4LjFZH3v3PTiKrdGNXEoelcaS5JrirCWFn2uc2vridzsJSNKIQ2lB80qEBkpZ2yHLIep7ImnJPgFR+6AJGC3BpKWkvxaExl5tACMtkOf00pCnq1WXUwUPUPZWOI1t6Y=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575137","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:37',
+  'sign' => 'lgU9dRNrYIkPw2lHxBe/J729SLLRvpaKGMNsZ/OYN9RWlEMYpXEHmiF4Bwj6H/Rp1Ez3yTXJcg1JRi/6kxCUgUL/XkYzO3Q0ddG+panPq21qloedvWXD2LmVSNDPgwCGUDjjgilFHcfcvZvE9CFTGNJy389TCpZ29K3/6EFT0dQ=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575138","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:38',
+  'sign' => 'UQCCaLr3AfK9qHJ/v8qiXK8jK8Z0TPTnTv/Ionu8vD68zDmFMS7ufAH/PuWtkQJFLoqB9EDh8EvdnF/4CgpNBVf4SMp7rX3hjwHhrTFKVV6a3tFFWJqR/gLLqCtT6iQSF8oTE2zwM/sy3WxQ0MRr8aozBRpdsSDeW0scAUmj+8U=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575138","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:38',
+  'sign' => 'ceLvRIgXTcaKKs1Ix8qm+2hEYPUqUfyWemlUgQIvWRkIk7gCtMyth5EwXi8KtJdodgOR1u4TUye8kASuszTMlE3Y+XfsyWmX5xOh+VGM8LiSF4kvzKF0zZR0TPhpmgnyQqiWvCBxalpY2BeTK8bb31YZ2EB5HtRlFnEr1o0/FBk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575139","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:39',
+  'sign' => 'GsKwUIbnvEjO604rsuibylR1W/olonyO+E6LBAbDsIAIbxfPtH3kzLfKFgqdaD2ZuzB961qamdQzmnH0wPOiLrDfBYA8qRhtDfaPkm0H6i7mLxGn1RihY8l5IH/N+ZMTh56wrUiwwhmoBXxSQRhxv0ncY95YoM64HOtW6hBU6Ys=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575140","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:40',
+  'sign' => 'oajekoxiMlXThkgCjd6q2VFPC1f2+634cg/y4RYEVEh/W9Mld3LqsC+gKZSHp56WuLeHLGkrnn8IwEAm1xb+LJ4zW7kAgcknwFYwacVtmLIy5mJw3f9ASVV1IRUmKSg9W5Dg3xE+V928U4R4oSK0dkuXBoOMYU3rVajFmPLQGm8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575147","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:47',
+  'sign' => 'l9MLzOblcft5hIHYZd8NdsZOfetcpS4fA++wF8/AGNxwZQ6gDB21f71vPu/zFuz5i6zUVVr2meFMnnzKqBAbe8aJvq4dCdzDuh46p6ptjzODsf9eBn01XXGbU12GUdXtpJ2OneBiQMHpv/+Xd9MucNmKnwzsPhpPBmL7Fdec17I=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575148","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:48',
+  'sign' => 'SHY1+MT7eziKGWF0tVQotxAGylNh0B30dzYFjul68YpS6RIrvyRKuN3ybfbjPwcXbROAFR19pMI/BYbKE2B88lq+qiNKFVHojs1IShT5YfcmcPFgwegzbehHFwhOdJ8OeR0AitEuaSIam/pKP8BE2FzGIL+wkDNyvk/T2OEYeKc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575149","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:49',
+  'sign' => 't/T9sXPOLGHpOcVTB1L7duDunsLetAdllLCEg8wpM+FDL2xDFkgnBjjOBbTykV/zEAZvE1wsmLAIdLfG8TL8t40FyKRbR9uyI7+AFRkfoDn8G8xqIbYbbQOtQKwvWc42/Ka9U7fv6YRv1zCiSRvMioO3aKsMTBLZJMRBh/ERCkA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575150","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:50',
+  'sign' => 'wi5JmT0t/FAvjlRm4woVhA8r8Zgcoox3VORVDPdU+EDUPlLedjqYixwPCHvRQqcUrNBZdItzRfupiFm3cO6b1uOnyAZ2HEDusRMvs8ahVS8x8d/hRSaYaLOrwNLYTSVpLm91IwSSC7+RXjx1bEbcb+sMLaQk7R16MANcodIeYqE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425575152","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 01:05:52',
+  'sign' => 'w9lv79Jti6m36M8j1G9eBLbRB8JB54hixtqGxr9B0ij/+aNjeY1geksTwIexx5/wCv9Kk6IG9o5YioFszDZmrpXR+yPIwV1fwexn8Fghv2YXt0zo+CiWkrz4GKAefGkD2IH7Zn6tzx8zLyDuNb3n2QAMYwP27Wp9gzgvQ2jXpxc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425579229","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"6xwfxPTfQwoL5yizBLMRFz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 02:13:49',
+  'sign' => 'D82o4MrNnFMWyd6yn6E6BLNOLTrQEXRXbwdS8ReoEVI4rKpGCyrAzNLMv2KKuZxtxLP8qR3ZvaYhH6jjvCMBrZr0GKu+8v2YA6yyxOYNPBMAA4VPjQfDbtHyLlPY+J5P5dToqProes6rhkBHQATP4ZksLAEfWjQR7vRN4uNOyUI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425580985","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 02:43:05',
+  'sign' => 'mFcwBhCyRHTO4NZlMEIDcaLhV4e3PEBYhzDm7d9Ua4dGdJielV1pSDcUIyUlyVzRQaxN8ZR0Fc9N5OCp8mzVxBS50A1rkMol2Xr7PnYFyphaKWwnnblHKcZG2Ouwg7G7YwuYSBBV0ksDoIO05JII0byQ2S3D7r97FZMoZzPJ1hg=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425581820","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 02:57:00',
+  'sign' => 'Rxymo/2NVFpxwok1lS8HN+EQctERSJpZDIvKWYaT++Cvf+A9safcq0jrzfKwnQ4BOmurPHbsH8VgoaFv21N7pLgtufdRWYxqcoTOyWn+Vx4gcRjFKfVmKYjwsHmmq8NFSdGuE3Z2Do/LEq0TPEq6QjvyFUrd0r19g27QfaHJT/A=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582181","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:01',
+  'sign' => 'uARwhR14cdi29lD5G4yqiYrew9m5Ne4CRPgJN8QES1lr2FdNlkZ2DXJJQbxEGah3lwg6a7cRKnNEzkmVLP8Um7pb8UBYU4336SlIwpKuiR6I/0w7iCajpT+j22jIPuagX+js2NSpJ8pdBZT7jl74xc03Sy/1xZstWA0Fk9jjNiE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582182","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:02',
+  'sign' => 'QXUNa5FPCOVdo0zsZ+DNS4a0gr9DogRq2QXdc37SIZCP5jDNcAXT13kFUSVhtKFlZgTwp+BS0UwBEQxOty5oTAF/hNhdK9O9+uH91gKigsYq8e/e/IIJqoYWZvMx6rt19wo3dr6Xgqfz3FfDSMTAcs1O54SbOYysn9+y1wkm/9o=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582182","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:02',
+  'sign' => 'IHR9ixSbT2y9zUgoRn0U+g+6fqZxX28QI5HG9/IlgRDyyAYtE8c3L95CptcQkZS9E4LkHTHYxQh35X/ZlwhcWSV+3ARNpPiednV3FXfD5rowqBn+DdeepeI1J8Ikk7xqDPfctztM+M6pWktXMQjOgDEqVvrh0+NCRd8KbYSFxV4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582183","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:03',
+  'sign' => 'wQAOqtNxEsa0XTTUB4/de2VGIGDpBJOqepzxTdrs8QGigluCK9rYCzDZvrgegMLkYXTYw6w9p1kzb8WSnrZtvCXgbL9qKbLpPle1jP93xcn/0Lk9jhamLeOIjmF47YxG16uiRXg6F8zFQsIga/6HDCb1zLtc/2t5mCM2XdYIqT4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582185","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:05',
+  'sign' => 'PcLmyC2wRm1JAN8PKqOg5JbcvErqkg0bf+AvC2EgUlwVshXhiQBxCNGe5Q3ixskoY0YmNo26RomAceXQMNU5/M9tYtXAozW2i2fm8x58L8QAjoQ1iV9qncfz4pTp/QgpRWjOH2vGY6fwLnQrgjbIA8vRsQoJB0PSBLZ0X46ulv0=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582191","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:11',
+  'sign' => 'YEuDXh1XYY+jdQMMSUcFmaQ3FT6IFUFRZU/hgSQq4LFQpGSfv1gsXrRGsW/F3TZa8c/qXKqOWfereEkuM6sRBipWh5VkLXP73dUqSGgrD1CGJ/mpt+uWnTx6zI+OftC1Mlp8DLs2msA6d+p+KKVvdiNxP+o6/CE3ByBd/AgYKjY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582192","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:12',
+  'sign' => 'HXhI0iHlr+Z2oVr5MjwLKyAa/r0+2qGCfD19WMrsBu7PRS/zoS8HztkjFzhn49zHijgaKyd9Xeh6qCQA0Wobg8Se8eGKwKq7py7D5JPZbanX8ulGnHW0xJFcEih+X1oopcK9FN9nPZFOzel3JBr/00MrEm0v5BVynRl+/fy0G7U=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582193","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:13',
+  'sign' => 'jL5X39ZQGgGT1RYNFVK5epYKoyr9pP4vmYjCRm1ORezZbxUMComAy8ybznU3tOBVUSPKKJaPpuo9siLKzQzdif7w2JTnobWO86LD0lRRKzcJzt+KXe+SHvrdz/F2FaQfyf5TYCmHUdL3K90tq1+z64qDx1lls0pko/DAdhh7Q+Y=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582195","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:15',
+  'sign' => 'COHuy7/Ac5bnVN0Df9qak9HjaytFqjFEfo61CfRDhBEOs+KcQeOTu24mg5IoyyhS2csVIb2dkfO5MYRXS8686QrBKkDjANfsXLY+XnizPF7HKEaDArGFfdbaOktJE4D533SXqZWkmz1IVzuU3zmW8Du7URXZJ0sDm3sSD5tD2rA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425582196","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 03:03:16',
+  'sign' => 'YE4FsGFGlFMB24WPcfbJmC9Qmbcz5nk0oTO5GZJLJIKZyFKezKYtg/Q6oHs7+GBvB7Ojh1ABfoHdd4PKQ4Lur8KuREAdAdmBvH2b3i93SZc3bJudLZXc5L0EZyYoYtTQWzfmMqfXeo1N0jwr3w/t/MAPygBpwZeVc7Bmkn/7r8o=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589075","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 04:57:55',
+  'sign' => 'T3dZDF/eedhVMUoEvm2a1CdQ10jV4OaD66ppTkDh38SSHbEAkkdhoFi7tbWsQcpBAPSL1NxOne4sFRoAw6WQyNGvYH/to+rdy7XiOlQuJOq99nY6dhgJN+8QqzqBtxEwLt/RGUA/w1vdbOHx86ZujCnKqIKs9YQeThW682LJ0r8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589483","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:43',
+  'sign' => 'oD4qJhVDtS1OGTTKl0IT27/F4Yk9u8G/WtL4PcpiXa/HLJND9uK0yad74xjkPcX2zo4ufv3rgqrXflbVQe0I6LUo/q5t0tkscHVYuookvm+kCU/IPfAvxFZkID+M9HAqR3AcNa53KhMWd6YeO4/Rye1zy6LXBnn1AMUOc/SCHLs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589483","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:43',
+  'sign' => 'oD4qJhVDtS1OGTTKl0IT27/F4Yk9u8G/WtL4PcpiXa/HLJND9uK0yad74xjkPcX2zo4ufv3rgqrXflbVQe0I6LUo/q5t0tkscHVYuookvm+kCU/IPfAvxFZkID+M9HAqR3AcNa53KhMWd6YeO4/Rye1zy6LXBnn1AMUOc/SCHLs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589484","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:44',
+  'sign' => 'vk3yPZB9v3bCoNdYtiultMqWnpa7WOzbiwZN49+e6Sw8XLUI5c3rMNODsKGZ+2PojV/d9+dVvsuK73HK1wrIrqS90/suTH4gbtRdeeQ146PCxi6jpvZPpG7W1PXpUNAcW7GsVOdCVJwSgsbwc98ZhSrHv5yj1K2BJuXH6wxR9nw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589485","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:45',
+  'sign' => 'DHxbbkAqjQxQMuSJRkuMLGJAgQXHkYAxPZHQsdR+05HZ6zYkYtudWTgyMoPbl0MZaphn1p69evmF2ZsI7hWBZ9rRfwE73BIY/TwxV6ckHLI8WIPj4WH+WvQuGTuKXRm3Cw0+7CE26I2YtP5mYbN3VPnrMmjr0sVQQLY1Q2PCwP8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589486","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:46',
+  'sign' => 'otClKS/6H97P0BEWIZEldfNvArRB/bZKNZwGS9/cxDHXLZIujHUBxONmWPEOek/ZwU88jJgHJ+o7yDtRdYkmO+yi36cxgsMLz5qZYoef9GuCeik7Q3G1frB8cUIgU+PuWYANzmUNHGTZ1es6GoOfOxEAaewvxcNULp98eiKu2Uo=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589492","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:52',
+  'sign' => 'MEWPt4WQRr+1oebM5OwherihEozTJ5aoM9TweD2vUmxQ2o2Uexi5esu36EIC0gt3iSwCqaCLi85PzU8rv2IUGAc3Cm41xqJrgOSW/duziChrVx/5xh14EgwFBhOSipmtb9qmnS7wbRs4zflEmhvyxxt9pW5aDAImBnkoD00Pulw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589493","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:53',
+  'sign' => 'wcAz3ixmVwcDYXDwMdLrlI9lnoF6FDw5gEdDlEr1RyQAH3fpXgo8fiy0TcgLASlLS7wefyzfo/Gon0RzDjWV6b11o7yxSMS9mNlFI0Grtpd4xOZQQom3J8iwp+lNqfXQKWVibAJCwWFm0eEopETiIXquHNBbFXIy/YrjUMOEEPI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589494","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:54',
+  'sign' => 'mojGkhVGibtwp83nuFNa36+RolmRpNydVTxVDX+94tamhcDzyaLZfirgnqAkKEP+W7GZESaMfxI/qfhCannalScGpW97qErEnqiOB3+2KX7w3Be2X3cxIsBO4yhsXs9OVqZ0TvjuZ5vDS6P6RdXxozPEPjRwcsjcIRFMQiWTErk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589495","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:55',
+  'sign' => 'CCTiupxoMw9zab/Yu0yTPwVcb9ORHeMVqVKsy+KD8MuzKmazYOsYmuJb2XcRRawqumzvQMgHFI2a4NSod5LIvjv1WaXcWtYlePZ+8d0zUF9IkHY9g2l/mW2SWFABMlXo+Db+WOpOUpyiFRIV8/z4IbS2h8VBeoLaF+1OyEX1UOY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589497","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:04:57',
+  'sign' => 'rvQL1BCREcA04AEOpzRTmlF/niCssYE//1UA2GFulOBasPS1FdlfL0uEyPcsMXGraYWduDbbDzte/kpHtAAbSktMW7HSNoimBx5tOHeewoRHrKjc9DxD1flKx0g4UGCGDJWTkWe3LV1jqBAn41VruLVZcIVJf1MSDttohRBsMP4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425589734","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 05:08:54',
+  'sign' => 'EUDid6a4pbQx0DF0moHUkrBk+huA1MlTQp8z+T3oWqBBHHID3uKE/vvHOlzheVFHU+bxTgQXiDvjDIAL6F0CKkJebCIPX2+f2FknFc0UbooQkKcchk3aNiK+8SnHOk/IN6zmYSsrV5Ytj3M3HJgFeMkR3Jn/Swr469K1CWwH4CU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596460","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:01:00',
+  'sign' => '1HIZgynQBNkc+BgaADoJD8B4wc+xqVVanbxSCxPW17+3ngPCY4QFdxWNVWK4KP26L/k8WodKnKFiJJn+9HeOHV4GHTYhowSC2EmkSienoeHEihXw/Jyn2+6Fw0zS9KoSjrO7uqZKspqmUL5tr4JJN/NEjbHdaMxIDeLGFtsi778=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596823","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:03',
+  'sign' => 'i252rXwgKk1LoNIuPK8KxrQEPr1Mpa6S9qvKVMm3IhMOA6B9aIF8OzqbigB/OKb9IclU6Y98RW4/GFEU3+VuLPrqIeM09OdA5wAaExugfTKIu8DPtzMhI+GCZW0240mKVlyCPG0nPWl7257WJQtaP7YhRy36YILOI4BMJKAjl4Q=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596823","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:03',
+  'sign' => 'i252rXwgKk1LoNIuPK8KxrQEPr1Mpa6S9qvKVMm3IhMOA6B9aIF8OzqbigB/OKb9IclU6Y98RW4/GFEU3+VuLPrqIeM09OdA5wAaExugfTKIu8DPtzMhI+GCZW0240mKVlyCPG0nPWl7257WJQtaP7YhRy36YILOI4BMJKAjl4Q=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596824","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:04',
+  'sign' => 'CuiYLF47Uc6Lq3NrieQJY1u4h7rhNI7Nu0d76cc8SkCn/6R95GI3tHrzbdUJjCJn6KoReEORC5VydiG6BqrpuD7us28gOf93lbU5XkgPPFAFIGomTqH/X4mg5b2M4wRIb72ZN8jVMkyuezoETHo6VlcC8JE4ZSFFEkMpSleMg+c=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596825","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:05',
+  'sign' => 'vfSFYHSPEEnP/kRsClwVbjC/YygpHNPQvNY0QHVYe4+KAkCrNQvD9B18btoOhqAsi/UsGVs/l/M+ICRWHOnJM9unnu8d90ZMnu3NHMApAuz/rT5tblpIUqFcxN0Mu2aLABeyxUbQHPPlQxYScllBLCoJ198GDn9Zd42lStj7v4Y=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596826","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:06',
+  'sign' => 'Bh3XFreiu9w7hblTamHeF/zXbqLzldcEfLlGU7k3S1OeWoIIrQSY43xdcA0FNtUkJxJW0FTR0faPNAWwMz7ZdftBHyT5z0YFkcztg4SEUWcAk5ecnpAIptfzwVS4b16Ox6M/BBGY54qVR0sLi3rwiV4MTHAyb7C9+rqnlmhArQM=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596832","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:12',
+  'sign' => '0eH1CSSHmTUkPiesq6M33UKc4krsHLJpES49ToO4byYvbGl4njc1YhPCgaggPp31GlrI+i9DX/LFNjjt08BWwEKs2r4GuBKRJ+eDn0DKJr0VVctiaYom/9C3jOzBq/i1/+fyzhNjcvfwdzb/ST639R0pwxtq8lwkKWvvKFT1rds=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596833","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:13',
+  'sign' => '0xvxDC1ftMge4VY+UvbmeRlifkZUEBCbIRHT7ai0lLaP3y6/SINi1sBmlB4pWEG3s9soIyGvoxCJMYdwpDCp8z+RH7aj6zBsanXCbFRzHzfNfHunjrBfPaxMMwkh6nSLQyLSVRquMUBiTPyVgyOeO9H0teBvnwb1wKlIlhQsLMU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596834","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:14',
+  'sign' => 'xUA+SF5ihqVwBzJ9ptwGpjZHbWxQRMczZny9FTgXmZ9hR9O+Rz4qLLbVb1/Bap6lXVIxuzzx+cXsRzxYxh/sCeAqQV7/CO9KIOYQ/RYPSkRMzeLRHLR2VfAWXjRCasVwkZsVeN+9AOCpb9CgTm9pAk0jXY7CuCc3+HeblQeqibc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596836","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:16',
+  'sign' => 'Eimhnv439+BQDAvYbM373/M2K84lZ0sJfDet++qJHRNIYAYFnTcQJtMWgatooseFPj3XYpRm3jAkrmv4x/y0Iv+Zn5oXAi/ki5rMS48+ubQnEDT0+WThM8ijU5U3c3UauRaFHDxgZ5MuwdWAtfnSVFhg6FJc6NKtT3vRIR7i1cs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425596837","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:07:17',
+  'sign' => 'LmqmRBgN92sX7H5tirHhqJ8GnQBmdi2p4RyiTaKsLEuMNr6iBFfJNDuhz70sDaKZQfufmKvRgU0EKNp/nyPJqQ3lltyb0oAxI0DrZYf2UA84F/0Elz2H7Txax0AB1fLir6n+vTxjCE1iSp0RQ/oSgQ5bosWxal9ToMzzyECNWoc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425598352","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 07:32:32',
+  'sign' => 'C7fvDHT8GO7kdZum1EO1+OmKJwMdIgUD2orMOgO26goxYRRPKgko52fPtP4tXYBsyijhCocyDTqQUHb2VtOoBgahtajCaEM0s1BjJFUp2LzyvBE2m8RMokUwZP0CW5DqaBWJLzJ7HJm/MxbYhMjdTvUfGJK+qDdIvbTuhWnNTuc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603624","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:00:24',
+  'sign' => 'IH6MaTzc1cdGgJRq6nj4TS2BsFZtLwnZVXVfwSdVUgbtYuhN7zYnTA/j0Rrw2dWoO5nR5q9GROurfAQU/YXozFN1bHTKiwn5eEv7qCXThR+6uCcgXvmrIPG2uDzz+l6Wn768cVtY7+ssB7UcyLZN9A5HVAeRCFUn2CERLs2f79I=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603971","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:11',
+  'sign' => 'L/HUzaxduOIngdvveim9+52ZvKc4zfAqp9wdwxVCE9NExeblR7rSgQ1L2v6X3PJhBMqN/nAHql3l0t50QjqPxhpdRWXvaGam0wjDsTs0ln8AsNwQkbPWl/fTcvz6pamSXGNpXHcfLpDnP0Zu+ZXbLybbcv7RzvyJ0I9cmkaoLmo=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603971","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:11',
+  'sign' => 'L/HUzaxduOIngdvveim9+52ZvKc4zfAqp9wdwxVCE9NExeblR7rSgQ1L2v6X3PJhBMqN/nAHql3l0t50QjqPxhpdRWXvaGam0wjDsTs0ln8AsNwQkbPWl/fTcvz6pamSXGNpXHcfLpDnP0Zu+ZXbLybbcv7RzvyJ0I9cmkaoLmo=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603972","articles":[{"actionName":"立即查看","desc":"电话：13312575005
+地址：云南昆明
+回复“开车去”“步行去”或“坐公交”获取详细线路
+点击查看详细","imageUrl":"http://restapi.amap.com/v3/staticmap?location=102.682554,25.112441&zoom=10&size=360*200&labels=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A,2,0,16,0xFFFFFF,0x008000:102.682554,25.112441&key=b6c2c19cf45cd3d2b82541bc857eed7c","title":"意路视通地图","url":"http://mo.amap.com/?q=25.112441,102.682554&name=%E6%84%8F%E8%B7%AF%E8%A7%86%E9%80%9A&dev=0&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:12',
+  'sign' => 'QtEFc0zCo92iwImgONh7UveVh/kr5JkpdYH63kfDY9VEtjc2B3XgvrULOO8cun921UFDXRBtHyV++D/YGCAVd04esSfmieQTJqCFCbA9jp2VurAyoz/DBvPGq1H0aBD0SSHiEyBj4loAFgiVICLOfgXP2gGx7JALRjwb32flW8Y=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603973","articles":[{"actionName":"立即查看","desc":"在线留言","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/style/images/ly.jpg","title":"留言板","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Reply&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:13',
+  'sign' => 'Pm+ChjetV5gHEHnHHQ0dq+8983ke7A5MRDAT1UC/+o7SVF4dqEvCI7F46EbIgRi53b19VNuU27m5YKU3MmxMkkHiWvtnM1emg8a3wy5LHVKMYZ2Eoq7VyNcfAfhmvY6X/nQCPI+oTTPuN9uXStN1hLcF6qWNGMnCaOo+rDFHjXY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603975","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Forum&a=index&=&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:15',
+  'sign' => 'ZmbVRBA0ZiSVdlVdD6qo9cKnxZzmw4fGiuSkuKMztrOpff9vyx4nRb6KMZLJykbK+4jFJSYRTWc3gupCtpo4ueYHMjiEzV2Vo8cvJVFrY+iqyRWAqhPDIEzfbCa3yanOClMbMOiTzNRdXXkgb9Z40jZlhP8GxnXHsRE+n8Ock1k=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603982","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Store&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:22',
+  'sign' => 'cZAZOzyJ89+AK855Y/rmGDz2/R7LT5juumbHY0OdpiImLmndbyXFtgbLgZpg4wHxNRmRFABI1grehhe8qswTrp28KAPzG4WQmBt5FNOJr7Qd9uNofAEE3jNclP5Nkw7o9+3+AQ1/8Xy3ph6/H57hywXdBTCkB7t1PJAxNZBh0og=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603983","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Groupon&a=grouponIndex&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:23',
+  'sign' => 'fY1XfcXmjQ6MmfnOhfDi6MpVvfAF4NbeDvQZg1gEp3pf0EGaAIcTf+k/2IVnZden+uTvIf6WtlBEe1uD0md5Aq3VWhrLV+vygZjh7kWbI4/tpA4atI2r90CxgOfDaNnvMDAK+vqJ3HYSwqvMDRbw8ezJthoQMTHnC6cBhIXY5DQ=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603984","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:24',
+  'sign' => 'huKW/jM/btFmX2fNw803VaCPjQ2HPZjawiBOU0NxOFYydSCvjVLBTH4//+FfpD1Xz9QtHdo2pOZCLe91RStbjybM8BZ94+lPuFhRAExzgPSZrESc4cvKyHXhfUPjNLhvLI8l6ISQEYW6IOuNiSCj6b6mxEi+0fQ122ZLNgEx9NM=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603985","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:25',
+  'sign' => 'V2GepuyzeB/yH8nCy/Jz8oFACyaba70wy4er0j4LiaBipivVzPjoFAGO6kE2E8GGOKzxRY3en4gbBoU5sKzDXoiN9z7+cw6pA/2O7thKZ1EbEoeCgYyekfmM4iUNMZb3qbPxbeSXY1GMAIRRfoP9YnbriYiCGs+vwEfqmIlsoEs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425603987","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"kYt9fHv1JIoN3Hw+alI5MT2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:06:27',
+  'sign' => 'BFFtAvAVc8kkgwNIM4ubRuyG6JgbVcI2N+QTDcanr/m4LgXJfw9BIpVJQDL5dqgB3IMfBhvTQqLryq34vMOU7SSEjlsdrcNt6XnJO3oOnEHRs7e6nZijvB23a6/odoFSm9t2eLWZhXlMjQpETC+t5dU0SM6D/zHEDR/0ceeY03s=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425606910","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:55:10',
+  'sign' => 'kjeESmT7OZRKGm5ePyk/USmDSFFdm8YXaUUW4K0H2XYYoRM68j5oZBOYofaCYlZmtommjd4XsHcYIJ/zfn77RO6KVcpy2zY98vpniWrn48jCice1VcXc8pI+6wAweLGpDw9b/phc1CSWuFhp0VS7yGbbapbXKqItQ5XlI8TdcJw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425606915","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:55:15',
+  'sign' => 'BXHCr3dLgDyaEV9kWxnaf2MCirN7/gtwx+gbvi1/H5P+WaFY874bwDN5G/bdw9ZtNghJt4R+kpVOvXMVTy7tfGQK7qNVjSMPlCirf3hD4Y/x+dWHO7BGlme//Iho5DWCjhjg4o+/cAlWeNAyk6ohabZh9ucivA79A1Nj2oAf7mA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425607072","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"o-+ByK8LczB3QKUMqQNDPz2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 09:57:52',
+  'sign' => 'rNb6qbFSsQO8/zByOBATevjJLpCkt9tG7G5NozJx7c4qaIwAEeCRw+NkJOwjq/QktG3jLxxEaj6TeKvzZbJF+v9OnxVFdaVPutOieLeWGDDXcNGj+Y/xii6RKmhtkfveNYNvhDo0Ugsvtcr0IIVKvwWAS/uqp2rjSDA8gkn4P8I=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425607285","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 10:01:25',
+  'sign' => 'WSTYqGeFc7n7HmVgNTWjNscvfzqvPwNGsOQGGYtdDtLDTIzKJJ/5S/Vahzo0nPiZIXWcTftFPDo9CkBXux5/OY3zN6MQT6NNMiH+Fmk86+jCTauEdIJUZXb170/qg3gPksfQJGlYdqTeatwSImt9PSOPALdOYjpCuG9MYDhzuWY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425607288","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 10:01:28',
+  'sign' => 'C7R2oMMleEvddJiGOp4F9wlgtdGJKMqGra530VFW3b2wqevWsZqg2w7QY5ferr+CfweTZy5oRy8XhAzrNjSoDTP8cXlnN9hcbaLkaeJXwKf6IL2DjsvtbGcLIid+OgMi4gBaDEG/uPH5i20CUNqLeHrUBWVciDVpp0zrX1DElu0=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425607310","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01&ali=1","authType":"loginAuth"}],"toUserId":"ND6qqIHpnNBx6vxscbvIPj2sJHSn96QJNAl1itL1p9dmJL-wMCyUWiMdh-Fw4+KQ01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 10:01:50',
+  'sign' => 'iHCJjorR1Gal+BMF5FvhEswmAtt9zhNYsQ+mNhjbJlaOyZ+RKUkCd19bzyyaD6GXpvjKxn6mnQqsw+lLP4Ow1/ssbKXma+dlmP5x8C7apN7RlWlXTKtLDJRclvsbKwLxJyRXd7sSad3K/UZ7vQI5rY/qDHRfa9R9LyvZuWvcs/Q=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425611376","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 11:09:36',
+  'sign' => 'EkOR2nNKm66D+AauxUM5vmAsKudJbembHGhfncXgRSI73VBrGveSPRKMsmOnAjHqTDT+OO23v3ly2xOvvNxEoyn57b3CRZVJ6N1QNfKCA7vuafoDtehk3/b7Ckixn2cyIwusG1RtKyhpnAmpIbXyYt+SevwTjLCN/sBflv8TYvA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425619674","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 13:27:54',
+  'sign' => 'sZE1f4PXngsAbJOfwaJswK53Val8vL0iMjevQjjcxiYHou7Jw+kJgJb/27fVxio6o/3n2fGs8xj2KpOrve2SWaTWygTTlpPWgGrrwXAfkN7cYaNU5mTpdISXjtH45wQ5z7J27C73vk+WcC0w9YU5vIalfcdBCf/xO3r3sLlEro4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1425627113","articles":[{"actionName":"立即查看","desc":"“意路视通让生意更轻松”！ “创业路上，若有意路视通相伴，感动与惊喜随之而来”！拥有意路视通，傍大款（BAT）很成功！","imageUrl":"http://ylst.kmdx.cn/uploads/h/hrxznz1420117686/7/f/7/1/thumb_54a561b9f06bc.jpg","title":"昆明道讯科技有限公司","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Index&a=index&token=hrxznz1420117686&wecha_id=iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01&ali=1","authType":"loginAuth"}],"toUserId":"iPL8PFM6TCNWN3fqWIwjqi0rTiflswIXHdYhK6WCjSih+fb+Me3lHZNSRQmn5wFO01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2015012900028861',
+  'timestamp' => '2015-03-06 15:31:53',
+  'sign' => 'z0EjEkYo7MeyLc3BvQUbhxnMKfW0vbZWyTalDVCDOy/MR2JH3YeKt9KM+2DKA9gGc1Nh4bHrS0H07CWShYJb/rsytcZmOyHF5juHAnm6P6MzjScqm9VhN62jQRgPabPr+U9S5OeAXBeazsbyVBiQh8oUhJ4wbR0sv2y0A+zj9rA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1436758603","articles":[{"actionName":"立即查看","desc":"申请成为会员，享受更多优惠","imageUrl":"http://ylst.kmdx.cn/tpl/static/images/member.jpg","title":"申请成为会员","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Card&a=index&token=vckoqv1433815713&wecha_id=z_fe77a59238b171414007ad992b944bd6&ali=1","authType":"loginAuth"}],"toUserId":"cWSp5NCqwzgzEBCcPm5BwHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-07-13 11:36:43',
+  'sign' => 'vdhugtStnYOkaECIesOpUAFZrtxYvZPph4gviWBL47+wr+9HhRgbbnoVGjskV7S4kzZf5mnt7a1kO3TPN9EYduu7y8CbA3Qo3j/bhzlJgX3LppTgQauvjyM6fvCXE8cjApRKZ6Bni2tkM7RYq99adDCjkSPspuGcjXfBGkCzf0k=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1436758630","articles":[{"actionName":"立即查看","desc":"","imageUrl":"","title":"订餐","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=index&token=vckoqv1433815713&wecha_id=z_fe77a59238b171414007ad992b944bd6&ali=1","authType":"loginAuth"}],"toUserId":"cWSp5NCqwzgzEBCcPm5BwHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-07-13 11:37:10',
+  'sign' => 'keDvZayHzXSULC/zfeb/8EsWcr+l2UUw609dc7SsbBxqkeyHhxneBxessZoPqm3/LCIEniErJPmLevrN3Wv97ofuqegNePw/5b0inOwmZo8kPFnVfaowblWTx6H8iyF80XcozO8TSibrBpDUe9nUQdy4Y4hcF3ZCH/NYNKdAF/I=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1436758948","articles":[{"actionName":"立即查看","desc":"欢迎您光顾本餐厅！","imageUrl":"http://ylst.kmdx.cn/tpl/static/repastnew/image/canting.jpg","title":"欢迎您光顾本餐厅！","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Repast&a=dishMenu&token=vckoqv1433815713&cid=31&tid=9&wecha_id=z_fe77a59238b171414007ad992b944bd6&ali=1","authType":"loginAuth"}],"toUserId":"cWSp5NCqwzgzEBCcPm5BwHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-07-13 11:42:28',
+  'sign' => 'a9fIAws0BZhJfppV2RQk4T0XW+8oeS3tMm8Y+d4EOjrqztFVdOOcZjjaHs3LRRX9msjLWduP5B8lIOXGYL6NuHJwfOb+Mm3E6BjMe0VkS5gKmIOZh8vxBVIly4RDlxWOSTagVlMxbZ2tj7AKinbP/95cTzThZs4Z82dvoh+APeg=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442314132","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_a53861d0991e389570533842533c86fa&ali=1","authType":"loginAuth"}],"toUserId":"2dTd+HixI3uCw00LY9N7fXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-15 18:48:52',
+  'sign' => 'Qhl5lLUecSOYfIv2lMan7VGQSkGMhYwIyK1e7mgXE/eb47eoDwAXoZPM9urAzCBSvk3V0x3dOBZIw+QrjvKdlj7Olvcn7nP2u0YnMuNomDJi5ftsgSCcizV0kSJltayWzCONyIP0TLDmTrX6VUpLwrmBXdXxZOJjDUiA3pCQpxc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442388947","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_9a0f8d958dee982756204b02dfb6fdd7&ali=1","authType":"loginAuth"}],"toUserId":"qiOyhqIW2M-W9f1Ai0WkN3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-16 15:35:47',
+  'sign' => 'WurT6ZF0TsH8pOttDJeMCT1EjMBo6i/F1pj2lkgG19MSfvY2ZKcpRdYaRP1r3wvhc7Rpn4DCAxG5Dn2LbJa9lh99zowgGJ/vgsrtlxHCHKMCTa4w6Y41tH1tqyAw0xue70wvStbYkRUPOXFOXZq2DXtKUP3fuYoDmGODTKytoJg=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442420087","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_126317e651c728ac2ea77e93b1c91b4e&ali=1","authType":"loginAuth"}],"toUserId":"+oMhdWpndSDN7Uf26PO19XltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-17 00:14:47',
+  'sign' => 'U86cT600sEtcDVzklZDPj0bIZegAispW/5rvIVL0DhGLxBkKIJoUoX1f0qUKVtMh/lHMdUosxoPD2SwML06EThqC9xNE0xwRcYGC1xwKy2Emes+xd2xQu+Wid4eF8CK2p8YaQph2lcFkDe6FD1J+VSCen1vsKtH9s+/5q8uEwg0=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442554147","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_f6331204ae425a36f16baf3cbab7fff1&ali=1","authType":"loginAuth"}],"toUserId":"Grpah7drUB-n6eEXSbBAiHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-18 13:29:07',
+  'sign' => 'qNSVuFnD2shb6/nAvcKwwlPMZ54W1fi1Acr9JRtempkpSiISUomSK4jSm9C8TBffEJeM87459oCIGWk70JvNTINCiz2xqp3LdS7cacPFPP6oa7x50hzYSTppRqwWQTTsY4CsD8DwsPAl2G2wDElQD2Mwuhh9gZcmsdRYguGbiAA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442554597","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_d8dfbeeb252ac748006c00fcff36271b&ali=1","authType":"loginAuth"}],"toUserId":"uNzOGsK9RrExo76shpYfOXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-18 13:36:37',
+  'sign' => 'Q2uH/uE0H3co2ZI+FruZdMOQJ+XyC0CBw+riEwJI7+RMlfskQ2wHbBG82iJVU/C4CR+xx1iB5Pc9UHGcnTUg5b5u9yNdNpGYHu0oOWyAJO9mPhGz0ndq/39W5imQgakfLg4XG/YBSh4tanmBqzsYsak0Q9/+MvxO4c+W24KhqfM=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442562990","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_16b12c31a65c897d18c5bd24e7dd8526&ali=1","authType":"loginAuth"}],"toUserId":"FdUleHLsURUt2A+98CGxgHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-18 15:56:30',
+  'sign' => 'Ii/n3wCqV8uEXV7jAjWRL6O/LP2IpVWIC3NZsFb++eG0RoO8wYpXbr4G0hxViumjcdzCC/Lk0xeEdaEXEV6h3mvuimdxhJvGVtjaGBWWQnY64mGRK0Oa3WhcM/UThw9gUUx2EWK9qQudK5Sm+TesrclYU6pfSKcOHc0oLxT3ebs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442809995","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_ff9c6db8e12b6430628fe0d4be78f2ea&ali=1","authType":"loginAuth"}],"toUserId":"B93KbZjWAAaMVanpwoqK1HltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-21 12:33:15',
+  'sign' => 'zOeo44+j9tsI721XtyleqG6YKeqLAJkJbuE6M8BFrhnQpWH8uTBxVcTg82vQdf0E6NEZHfIikBGrrtUX1FqrJp+NjSyIfuLTge7zPeyThzqts3u8fqryasv6EAyRmiUlTDOnCBx7bER6uoZ6+pyW27w7NCWNhBdvbl42gZugqEw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442809998","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_ff9c6db8e12b6430628fe0d4be78f2ea&ali=1","authType":"loginAuth"}],"toUserId":"B93KbZjWAAaMVanpwoqK1HltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-21 12:33:18',
+  'sign' => 'TqHRnsUjOG4MhVaxawnmtv/2aRNKXJTzKpZzXV5enPtL2prBRy+qImqFo6qPHVuzYSgt/GJJw1xOhAA7DFy7RIRJXaTNHP4Y6qcy59afJHglQJQ/1jtAtPFXWeGjgtjF7sKH5zthByRMshJk1gNgkpAM0I/wcmtAIH6JIGSkGzk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442826858","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_292256bfe14b1f72290b7fcf6afa552e&ali=1","authType":"loginAuth"}],"toUserId":"R3sDsK8IT-X32yedI1Te5HltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-21 17:14:18',
+  'sign' => 'AToaxtj01CH3cHYg+8iWvi0rsEkVtNTd7mbQbXVBbcPzw5gI8DaoepWu8YzmQQ4gVuqgutc59wJEwafe97HPnzXq0qjZ3QDngAN9QoG8grFWKPJ0UgnagpsSWUjIcWqAACwKQYsPivMzWmzDM8dQ5EL8lKy0bwe6U7TL0jAmSn4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442829042","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_913959bc668a83a844c3ada1692bc0c6&ali=1","authType":"loginAuth"}],"toUserId":"94GlESsqcdkWzCzGoNSJNnltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-21 17:50:42',
+  'sign' => 'b79yVvBPUuVq7Crs2xk1V+wMViHUHFOSlYBNxLmuLqYCRyaxz1sLp81R1KraUKZ7NAfCSUl1Z3Bjev0RX9Hf3725t0jx6RdqNs7wXcfZ2QcFFUFbAmpE8zj6giZ53P417P1JuhpuUsfNLSvXIhWabWP4E3Z62IAY7JCfdp643fw=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442907085","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_9e99e5dc835847d73ddbb88be5af6a93&ali=1","authType":"loginAuth"}],"toUserId":"9z-R-U7T1LifL6GkznQnrHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-22 15:31:25',
+  'sign' => 'wtK5n/cf+evaHjuhOZmk/fW4B8+NpMpNfczmndj7FoCqFqoc104vCl1Gyq0HDzIe18cOo4OZuGigL4bVceRLMg6Rewd2hrqMYWVuUcbRCQGYRoD+tICfiUKgVgJxlcj2Im5JwsTI+fDannzxqWWCWGG2PIZUg2YKtyTBH//6ClI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442911551","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_3c2e1a127ab5eb900bde5712e8b390bf&ali=1","authType":"loginAuth"}],"toUserId":"dPqMoQVWSCo5LOU-TF7a9nltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-22 16:45:51',
+  'sign' => 'aw8/hdgHsvURXLJurL1L+Qv83Ror+lzh8+NRz2jZb2fG5wiY7tV5XE49zaTyvGlE25UUV07CoH+7qwIfjpEwA9b7gDEvN9+CQpMmA1peRPjfdbsYvRQvNn/Zi2GgGEe79hba7A/82GJUqmT3LKAiwsz5RXycINMMgG2IPIrSA20=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1442924050","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_253415c462544c847ac343116038a761&ali=1","authType":"loginAuth"}],"toUserId":"OZ0l1Jd4Vgl9sCsgNG6hGnltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-22 20:14:10',
+  'sign' => 'Rlcm1HNucwjKDPlIbVcF5N9Tc2Xmoy6LOTa9xDXpQgu5NLWVWeW+FWiMNV6iyjR7GAkiEF/fX0KkOSQNubCYbLg8tAPhsU9RLMvRhwJDpxMJtfuZyFLYRFkwbsFPcqc31TSfcCyzkhaV5Fop7VI89e1gVQAysbysO2889nk5hRQ=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443259191","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-26 17:19:51',
+  'sign' => '0RV7K/mqRNCCwLC7FpKChzOBjhEyvsc/4XKvVks9scsE5o7aAQDp7IpXM7RhU7nafamveA6Ev34P+15oTnMgNn+zESvixLmM0qp8ZHopLT+Zexcnk9vmVghEp+R8PbZQhxdEPuJwCLfKDvFIDtLOJXUwihZctolANbf90+CYqJ4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443259197","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-26 17:19:57',
+  'sign' => 'IPdQQZ0Ke8ld02yxPI1+I2Ecq/aLOixyxpSR405xRAHBdsMNaoaG0Kh9Nz0vdKoQLksYsoKZ9RiUdBCL6r24jOcjOSqcOjGnmrYOkgV/wW3sfaqiWt209vgouhA/NBR1NApho3ExGE/f8zNoOAuZxQb0kTWQCfE7NPiTS0GAiUE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443261711","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_d7a956403645985d9e8757a8b5f905fc&ali=1","authType":"loginAuth"}],"toUserId":"fvBIHXdXXjmwiPwg3AqaXXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-26 18:01:51',
+  'sign' => 'AwhEe750f2sFHZmFdx8AJReNHHLruPrZJmcIRObAZ21C388zViB4ztz7t2zmXEI7viNiIvXvLfblV/CU7kpsUF//lNFcgdJ+xuqKPKvBfU5FqokmsNXdo84nOvVyKKe44f+kReBvs8a6Yu5McukKXaH36Q69mhuWtiQFlrMaS4E=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443265213","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_81eabda682e9f516e2140c6befd142bd&ali=1","authType":"loginAuth"}],"toUserId":"4YxVdZOPmf4x5KaWJf8X83ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-26 19:00:13',
+  'sign' => 'GyRck2aOJ1LNbMR4zA2YSnRA7hGNRJRawO45aswOus8NWO6CYLupRsevs+bU4WvPea4HIWhmBNerS0tytPvildyEGiCP8+8oKn/Up+9bbTlv81GQJMGeaGpwQFSwBp+TqQMb/FQKlQ1pCrx6v9qNebpTDLHZ/VHQ6os5uMd0OQs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443398158","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_237eaa9e183258bb942b8e7a402c3a2f&ali=1","authType":"loginAuth"}],"toUserId":"MmqHYVh2+nkYh7jY3OKKOHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-28 07:55:58',
+  'sign' => 'yW/XgBlA7HaArvi1v56ewNP2+19rHy9IupYb4eKkbeb+YJ/IY0B9w5TY2G/KnScG5iueVXeADTllEUypSya2oQRGnbI6TQ9/NKZlbFvFEexZC7J6d/z5cFqjhSeaSQRER58kQ+qWAZGOUM3rcQj0ObCgOPVFGihCYXaORpE0TkY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443413112","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_f25b3b2c24a03f60fdb5b4c6bb83ed87&ali=1","authType":"loginAuth"}],"toUserId":"fevZGU4N5JRsEbEPdgWmvXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-28 12:05:12',
+  'sign' => 'Q2UR6x1btqJsYta3EdxrNJfsg/OrIm4mXoUzQ37joPcgsRHBHvVDFY3HnM0Z/3SdP44tMNPEPo1dUfQiZvrQuBqa7afAzfoLoAvkwt7aOYC36b9FMQRy68zndY7K89JSE2VRNWHdQ26EZmACOTCqIGitSdQ7N3but8wgWWZzKuo=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443430456","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_f25b3b2c24a03f60fdb5b4c6bb83ed87&ali=1","authType":"loginAuth"}],"toUserId":"fevZGU4N5JRsEbEPdgWmvXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-28 16:54:16',
+  'sign' => 'IHpRagcSuKksWYhwK3XRuAAu95NNJdHWrZOs9TnafryJpQW8y2/Mk2mgsJJB5UCuNIyMPAOPZCBsHRctYtOI6TXIAAYHSm02IC23+EGkaYoGkjcSZwcRCe94og/+y0qCU96U1Os+XMRV9J+Qp7y5ha1sE8dBE3cQLELjeMZHejA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443435136","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_6d5dd5cc8d70f2c2119603ea81bc8796&ali=1","authType":"loginAuth"}],"toUserId":"ewg0aV0xAQcAW35NvBHfgXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-28 18:12:16',
+  'sign' => 'MiOKrYo4c8fjKsaFTcfUVCm9O+3SFCEmo9usCMHYJ1JKYd8DQScbA6j7gNinOX+IC5ma4hixqWuilcS3CfvvOKW/TtRAK7Dyzy0yrkpfR3ONlxuyT+tC77iLhPGc16l+PotOiXcC1S8rqXXkHqUcfFc6B/Y2oN2cfs1K4ss+b3k=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443444137","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_4732a0b6e8bd561dfe46296432b2fb09&ali=1","authType":"loginAuth"}],"toUserId":"WE9W2roVEm8qc+hhcUwlQ3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-28 20:42:17',
+  'sign' => 'jeMrFs87V4b61GJvR1l9M1LrHj3raKbNbnDraaQL+QhznGriW5iRI6ogqM0uaJ3aUhuiPK1jOx2ZblZ9tF5Qdu2cQS3Des18iHwQw1thNuuCGQ2tkC/6bft0qfuQWX8nnsT8k8aSU1jUop+Wv31nAJp//7UwVfKs3UcUgIYCDVs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443487827","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_39835e1a7174fd509d7124952e73485c&ali=1","authType":"loginAuth"}],"toUserId":"zCQMwzQ24RqcMCOWcSScU3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-29 08:50:27',
+  'sign' => 'rygExkYyr/E92A84gxTCTxKDyXi26bFfqVJBOB1yVvwLlGE9B98saa4J6akBFIW8LQrFoR7pT/UBsbmoO+zTx4LCXa+E12MESXIx7qQUir7XoByTfoSIGmYFt7Aj3b0hmU2se2Un44htWI92s80joxfCnJU5NstTod/Ci2F7URc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443614767","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_4513f95691e5b6f80123b43179a44ee5&ali=1","authType":"loginAuth"}],"toUserId":"yIYYDVVY5T67D4SZWLnGAXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-30 20:06:07',
+  'sign' => 'e9/0Z1Bymc6vxaCv6YMeg+GgXnRS8tt+b64ukXfXgXd397z+bVhrRKW+qjiGdsh5ppt9jTiidRX5AIhXny/KSvyBnF+b7klw8iOxz3456X5uLK0uUCxjxfs9IWH75eBi80z1kngw0e2m0Yd+mxBxyyRTvZAeRtjwZDfdONm837U=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443618609","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_b50ea3287a060277f099af4c80c41f66&ali=1","authType":"loginAuth"}],"toUserId":"WEuoDzRfvwugNBHI2mt-6XltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-30 21:10:09',
+  'sign' => 'M+XmRpel8gZ8MobszmFtzF2VVCpa3xG0SRY3XLcMBpduiLM8Sx6VEvHuHrMOLfX91ztjL/bphQdvkJPMv/EbDulZt+fHfKf55fmjAZBdGfMgw2UfBSuRazMippssqCBrjOVqKVt/qpYgReSuSdEu8CmNqEYSdwPJXpYE2DrpmK4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443623435","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_483c7bbadbcbc45aa3a0c9e871dddcca&ali=1","authType":"loginAuth"}],"toUserId":"GWNdUAc6b+FLL3H3ApjDhHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-09-30 22:30:35',
+  'sign' => 'afLRoXMCoE40Zmtzf7xFiuTdsODw0wXom73RRYxJHJVC6ZRVb7ulHkdHaeJpwf6mTmoHXY3ogRcDWYFkIPfuOP0DkorOVy2ibInUbsMYrS7HBH7F0dx4l+8LaSMhyw2Loz0ApVplkxllRhPnipYynj+U2fuma6md2NSp1uF39+A=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1443942012","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_f1289c04c7f558b1fb4b2b960c277ab7&ali=1","authType":"loginAuth"}],"toUserId":"3cQZnqHnjX+RUvIOSg+j13ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-04 15:00:12',
+  'sign' => 'ZnnRBqBszeZVjt8h/WqxRkrm3/Xnsn9CkSVGixoyXwDrz2p6buoyR06nx2ex1NLqoK+PHb+fRGVpJiO4cqAYRYJr6Vzk47t0BjBOAtVxcDYOV041VjQkDPHUBuf2EQ9cD/Cz9kjhvKOXmfWujRZo/507Dn9m6q/Gtcp8qohqC/I=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444026635","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_420724e4de14494477f38b0c2707ee5d&ali=1","authType":"loginAuth"}],"toUserId":"yV-VGCY6JJBOSkL35OdYIXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-05 14:30:35',
+  'sign' => 'DXsGnlIWAawRf17C8F8AQg8H8WpZ9AjNMd+GaDLoLcWJ7fbWP/468mRFT15bQ3bGyeBjL4P1ijyWn/SZ8kDRLYDP7BVHrZOZKwe3LiqFjJSkbX2GfhEb/VTFm3nfqHz8wgxV5Zf1vRgKihwqLGfz+M68SqgBtE4h42GPO2EXJ+M=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444187218","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_e28409fc268886d8162d3117a10a819b&ali=1","authType":"loginAuth"}],"toUserId":"vMr1C0Zf9S7xk1T-ZAzKdXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-07 11:06:58',
+  'sign' => 'OFsav/tqAIGKnPwDKknz2TAiunfepW5puD1Qy1oujNTuQq+qpNLKZP87JU5mW6+ovr9irWhWwmpzoAMSjhrpxNHlqJpgcLlO/Bua+IApEOxgKIDWxcr699FhKKQz9t/IaarUrsnhmMGv0Ec9Ums+svo8Osiil9LRP4HpaVFlUMs=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444219238","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_8515871f10850f679730fe5fec8cc541&ali=1","authType":"loginAuth"}],"toUserId":"DBfuKO4gxzFQaCQ7C9TfmXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-07 20:00:38',
+  'sign' => 'b5CptDx+bf1go+WUWfOpPETuVZ6oI4Kjlews00ynZ7okXtbX/skWwA8OhkxNud/9BtPxpGOy1EP6iPflAU3EM2EjxMv2HLx97F9DEaMjDHe+0j+lV03kwotN0PW1zy7n2rGu6GaE60EqPCrHt8uZZOg6Abiw9d3iHNuJBjPt1Ts=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444267899","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_ab6062633b544c9d2956e44441b7c53f&ali=1","authType":"loginAuth"}],"toUserId":"ZlIKvAg1ZyZBXnMHsbOfeHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-08 09:31:39',
+  'sign' => 'ar9GxpB34ZpjDgWPRl9S3oHQKtL7DQ6DcWWDftE5WRRZX15+Y3wiKmlu25bFCvVvJwtB+tu0bxfjJfHtBSNnMk+I0F+0sJ+mLA7PRJyxoqlRbOZq77dKhhFACZldvFJoSKkjEVHN2bKKBeNqunObPX1KRCzb6/dM9puvRxOTF60=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444285971","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-08 14:32:51',
+  'sign' => 'QUM2Twc/19M08WsIB1iAM3y0zAiRuOK/ObpaOg5dXKPGSk4K5Qqe+bRVeDbEVImSspS4MYnSeIUmZpdQU6cinkBu8yz5c5Ph7gE170MF9IP5wIPVTAr3xCVAYhY0CGn/cwlzkNGxTBQ6fVG4NRE2Z4XrdKrrg/eizZ5dCumW5g8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444285985","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-08 14:33:05',
+  'sign' => 'c9fVqwWV22lf6wKOnz2MMLIJXrLj+Wa6GP7SgVLgXoXiCWiTAwS6xhOEHk/SWv8Fiz8iDVeas9Z4iKKt/xemfQgfNShqzy21+5wV4hQ393y6kNslZ7j5l2mtHsUwdYZj4vqrMc9ZXAPUH8z7hRxcJbegzKd1VzNwjoT6xurviW8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444359187","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_c48d30f2bdf62e867fd9dd716445c5aa&ali=1","authType":"loginAuth"}],"toUserId":"hOZ1CcaFaByuOA1pdVLrqnltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 10:53:07',
+  'sign' => 'AE3wBNtDzxXT1UKJGmoWUY5IjAhpGh+PeCMDMcNRDnYO/356H8F24yI6VXszYnfHo1WF5QphVg423j4Z6wp2Dn6uTDqfMx1d9a2Ho0hxReX86mdRNctGq8CSHSbF71JW69p46OSorM/xmpATNGUr86AP0GGhb+f+lSB3aKtrmUI=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444360654","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 11:17:34',
+  'sign' => 'Zg94LSbntGMLvvNXoEyZxYbi8beIlOs3KRUaW0gnFR70YbbM0+8T1MONae6ymQGQ0wDAxQA5jOYcRA8CHRnNjg7VjFyKZbEnU0F5jSnqhzxghYDNqOBSocmtWa/vRAfmLRpdkA6gRF4e3IEaKcStGt3oxvxDAzGyxw9/f/f1HA4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444360673","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 11:17:53',
+  'sign' => 'kibNuiq3SEBr3likQrpukjyPy6O55GZYKzajCvPqm59KLdmjrIaC7yLwhJp4xA9L0Y6PlRQoMPtz6HWm0bElYfPFxCh8AIQDYqUtT+1vWnGPdzichVoQOIEu90uGUVhxIAQFT9ij+ojcDEED33OBlFB5DqvYHRUs9hd+4gNM1uc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444360790","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 11:19:50',
+  'sign' => 'KIJxinZWHXdJOqSwj7mMCohUbRiF+6erT/ab8IN31Xdd0sbDee0bHdsvepKJIizZO07cgwtZX7LivPipDWywSuRaxneDYoZqIEvD/A0fB/aM03JLVzumUmRufOq/z0brt5MWH8dJuLLuQF8XC4u1VTGXmjqoAsmSdVyyQEa3Ssg=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444360806","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 11:20:06',
+  'sign' => 'okpNhKh5vTJvepj/MTZdSENEe3zjLmwq90z3T8tbHmdHs79SLeSsJx/pC7AnmCYhNZRfLPTtd+e1Y2NGor6giO+TsBoOVshRDUq0LW2XbLzJOJC/79BTnqEA02O6vzF6RBbeU5bCCcVhfkiwDKw5ohHHAZiscNP7R4+WXfPBy9s=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444367771","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 13:16:11',
+  'sign' => 'v3sW9Rl0wRH/gpbib61M/dhQasX8YKxFampQVCdPa/aUYPzrsPlIpOjpL/kPCXogoKsmNcIxbADuzy4lY+V4KLnJtGVvLMNw3NyVw2HxZkqnI97lL9CguOXDp4JGbd3gmVv8qIu0eMU2UnStYp4uePvvSTQyfizPHKJpAXU95gA=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444367791","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 13:16:31',
+  'sign' => 'dfEbOB9bv+c0tBIeLenoHmNl2WveK7Mlk+qj24qmm7I8Flr0Gfa32jo4NjZ4L62E3Enjn/CpLJ1WwEgEFDJWYgjrTZVC1aCgc99x5qMF2LqSZTxhFuyaMsky5qM0vRzMrLIUZR5H852pH3+WmqCHOxtNi+LAyboBODvqUE/TSv8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444373001","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 14:43:21',
+  'sign' => 'vtgDNa8uQeJnTJJpyFB6xv1LsoY0Ho6wKLFYl/YlQtsWLd0YkL1/j3vnr9b47BJH/xojVZpPSuG+bVMkkfWpbvGuCTq+F9o+iax4SiNeJoPWDhr9mFTWwrgrJ0rn8KWr2ACc83o0Y1jJhtoZTAhNhqw1mRBM1B9TtadjHTXquls=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444373017","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 14:43:37',
+  'sign' => 'fr0ntOYb093ngrErQa+YbUJb+vlotqLUXXtXX4m5DjQhqeQMSn4Pv+Xwi6RpTRmTfXuNP0HtLw6VG5ZWl/WP4h2w2pvI0Ez27zOAU5gtgDjtqCGvKy3QfgkC4YgGKjYo3Xu5Bs6/RpNYD+dolPc3GH1NST1tqofHwmmGYdCajU4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444378403","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 16:13:23',
+  'sign' => 'WTV9Im6OX2oaZe8Pwu0V9cNzMadgLQo6QBeOMrcGURp/ddN0wTWtJ2Yud5MPOy7rz4PoCG7tx5mXUhXEQvtPRmZ8h1paAbYVxTmRT/7aN7hxJrG58l5RHP+QgMR6q3Q5pH/yoDdKk7tfh3V4v/HXpdotZehozwtKXH57XVfIgt8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444378410","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 16:13:30',
+  'sign' => 'wLElMBsCmGwShTF1AZpiAJs392B7Q2OHcNJZDk6/tsg60KCJhemkw9Ikuz0Ooy0GYJ9TMlR/E7iv2H4yY86C0INiSLp8AuXbeBapfkwma19jFHGQBR9d+LqBgUVITkfA8ZbKibHi0C04l2Ibi5JpnRN8Cr75Jdz2JI6hmZZ/zFc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444382384","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 17:19:44',
+  'sign' => 'RBy9Y9HdTPeLczgxkE9NZUZR6zMtEKzEhnWv34R6gs9etbmAsqM0KMCTY2PChZPOcSRS5L2ywY8o6HCKO97n+9yYXvI+3ijxgcZ2Z4jGDvvfyIoAdj/ATyplTYWtK40QvizdovWMZkdYtZTOmPv/M9vSXClgGFhdQpSsGaOiJ7k=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444382404","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fc5b68212a9609194454ffc04242792b&ali=1","authType":"loginAuth"}],"toUserId":"c2psgX8CUp1RQCtL6BEsV3ltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-09 17:20:04',
+  'sign' => 'J6XAyntEOACuRgq05Cku25VwiM/AAZBJyCXtk07WR50UQQXruYJD0t8dS6M/63P9Lvi7mL/l1J386z3FXojmrFyqafcBomA1b/ohX/PETjtxPjOTMEp4Xajvt7UC84hkZFehzpH/2ylROffq5nTMUNXgK45GaQ6+PlGtdHz/d6o=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444412410","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_65a2371b03d65f3cf678453d15250396&ali=1","authType":"loginAuth"}],"toUserId":"OAOkqeQOlBNx5oOh7yze9HltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-10 01:40:10',
+  'sign' => 'd2XUokH0XmLkp34O58SMaeBsu9ORSil0rlbRwQxrBMkxjx1JAS+k3EpsCqERAw67U/+RsKkKKiObQUgVKKuiKEFglc7aaRVuDG4DfpOCkUEyLKc7+K/tTVqx85qFrPxRm9Xp+DSTjSISV5wTmVi4Uup2QY1aV+7waVbjaFH5aT8=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444412822","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_65a2371b03d65f3cf678453d15250396&ali=1","authType":"loginAuth"}],"toUserId":"OAOkqeQOlBNx5oOh7yze9HltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-10 01:47:02',
+  'sign' => 'CTVmQpyP7MmlETM6YubTuWYfXCmOq43F3LA/82IaVm3TWD8Cefiu02DrdZnOClg4J4ghY8+yAsXpY1xp2k1fYB0ZhMbz14VD1889hcqK5PhwOxyfruarB9g5arxuzXgA/gzm5xV5rmqe0+zHkk9uxHKNBB7XK0ZByet5rTETiaM=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444512282","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_b116df3f846723cfc2ce3e3808c3b3ad&ali=1","authType":"loginAuth"}],"toUserId":"Vx8q29HLHTxL1mlivL7yxXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-11 05:24:42',
+  'sign' => 'A0E4nhgVB06zB2OZ49olQNjUyYMS5dcNvTE/y/honP49242CqC1qZfLbqy3q3nrl7pSIDP8m4J4YvRIzr5XFxklqXcibwwVOHE5QyjAeYqRSp0p/IAVvVnXCAR4KYZLOmeRrh5f9HVS8lbt24CA0gwDZOutl51/x/072hv1c/Dc=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444649982","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_6658e3188a846cc53ae7f3808f452a6c&ali=1","authType":"loginAuth"}],"toUserId":"LT3e4yKm0hhP9MzGr3lExnltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-12 19:39:42',
+  'sign' => 'l7izlh+OQ4na1AyROPl3oUxBh6W7UFGRGt2lQR4U/HCeM5Y8H1iiJuSYdifAS7DjKkTIxaz0WSvYd7ED+raiD6HRvTkJBmbERaAbbGgwtrtT1mT3jwknUiU66JKhhvzUQ/I4pNIxlxy3gnTimj96w58kgCELZR64ZP7Fv6kGit4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444725589","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_f68f610505e16b56c407458620f11a1d&ali=1","authType":"loginAuth"}],"toUserId":"InhNV1hncN8y4EgW-WdwiHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-13 16:39:49',
+  'sign' => 'qBzMzu+dGzpXojUv5tNHEgnsnS5laWmeOdLFf48yN5Owtk7DR8mbjCIuA5Hj7nebJFXUdTa8Dqjk0PDbvIuDh8PP425/gFyQvOkYsnWBAOKCaO27wiDQn2ClDYgh+jbe3+TBXhfkNDAaRnBqMB/4F38B8l8ibA8yIbWOeQoBV3A=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444730265","articles":[{"actionName":"立即查看","desc":"优惠吃火锅","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"优惠吃火锅","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_ca5b6f704d87dabf92bd15574653b9e1&ali=1","authType":"loginAuth"}],"toUserId":"5B9luF1WSL8HpnaIgu1lIXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-13 17:57:45',
+  'sign' => 'gIgjkoHDR4L4FrxRej90xn1ndrh9gC4IR5Leiw0vFWJ8DF/43GvO7rQ2SxPsRSjCBWB9rafJNV+87ivvdyTKrklZr902z1ZtOgzpr3Hrv89rW6+00mJB0VImePoFnjQto64thF4Qt6z0pKc3g5gvCUtMvPlwJDqj6hYMNObfCqU=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444905713","articles":[{"actionName":"立即查看","desc":"10元优惠券","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"10元优惠券","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_dbd602d94200dbf03d252e02fb390dfd&ali=1","authType":"loginAuth"}],"toUserId":"6LY-AqZuUswz9l3KI6txpXltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-15 18:41:53',
+  'sign' => 'X83VJCODD3uh+SUtEoJ8Rhegm3nKvsE3XJNTabotp4aL3P9ZFIYt5J3oqXaFoah5Vo5nkFfqt2ODZDb1r9NHile1uUd8AQXjrfv5/KqDHH8ODvIP1CAdW1Wq8c1DYO6OFcuFNe39lbYuFnRgH0+5151qMOG1mEVcaIXdpiPzmMY=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1444922330","articles":[{"actionName":"立即查看","desc":"10元优惠券","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"10元优惠券","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_675337636c60d6373183bf4b1a3c9be4&ali=1","authType":"loginAuth"}],"toUserId":"P4LRHRKZpKonY10qdp378XltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-15 23:18:50',
+  'sign' => 'FQnv3mSBPNeqc9n31cEJl4OMz42kAYw9N/xvaOV1LQ9vw+D7Gu7x26fawuhiMiV5+9U2Uo3AwyT2Prx3M+ZHVnEPC1U28swQNowgeTjiYKdKzClXxCuMHAQF08DR3TxOt3KPZtGvaAoaqJxDj4TKTAfV9lU35/KbPfCkvI0QSIE=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1445162128","articles":[{"actionName":"立即查看","desc":"10元优惠券","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"10元优惠券","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_906a36b6ed85f9eccc37934a565a3540&ali=1","authType":"loginAuth"}],"toUserId":"6zo-LzN-ZrVC7uHMKGlZ5nltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-18 17:55:28',
+  'sign' => 'YRwYOKPjn8vRhkkL6GyyZM5jkzrsKdMO9ipPHvoLOO+iEmvn5FQmQv77uG4GkLQthTSPL+6lP9ipZa/UBIiWPqEcz+IPnA9RuNh588FykXvd6PN3VqnRxfVxGQ+hszm8YpZUqK4wFcWzaZbqpqkSBlKrGQu4yxTIyZJjlIDwxg4=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1445273938","articles":[{"actionName":"立即查看","desc":"10元优惠券","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"10元优惠券","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_fcbff348ffec228464a35b6cb076b1b5&ali=1","authType":"loginAuth"}],"toUserId":"90oMqydTO-bnIphxpJV9YnltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-20 00:58:58',
+  'sign' => 'SsczmyOmZx52b84PrGT73ocqjBrF/LaAg7Zf9SfmBeNkfREdun6hQ7ExhwD5CaXn6Izi160H8v909d8buWFu3VbXXTvalnKUiIOvrY6Ep41T9AdYfsqhO0ZloRP79b/LMkqSr6H/qCs+MXCQFIVCZ95JcmggYm0i1v4WMjI8Lfk=',
+)
+array (
+  'method' => 'alipay.mobile.public.message.custom.send',
+  'biz_content' => '{"msgType":"image-text","createTime":"1445324237","articles":[{"actionName":"立即查看","desc":"10元优惠券","imageUrl":"http://ylst.kmdx.cn/tpl/Wap/default/common/css/guajiang/images/activity-coupon-start.jpg","title":"10元优惠券","url":"http://ylst.kmdx.cn/index.php?g=Wap&m=Coupon&a=index&token=vckoqv1433815713&type=3&id=25&wecha_id=z_e4da6640e5fd72811f2cae8043a171df&ali=1","authType":"loginAuth"}],"toUserId":"JXdq9urBREMXq3xPNLrWmHltvqvBmBCcC+BlQynSEPhJ45Aw94gvjaGZohBYyYRV01"}',
+  'charset' => 'GBK',
+  'sign_type' => 'RSA',
+  'app_id' => '2014121700020267',
+  'timestamp' => '2015-10-20 14:57:17',
+  'sign' => 'h8/8HwBzZhfm3XZW5L2VpXUud1xACbroQKJpojTD+G7gSKyayITVkovzVcYyIoq7XZYwBu3d24sNEEnIdY5ikOYHMC7MqXXL0gwA6gANFWApS60Thth/tRslGP2X9KIVDrFbmkOG7eZ5eMyeW69fiaATdOcM7XxF4uvx+ydC1qI=',
+)

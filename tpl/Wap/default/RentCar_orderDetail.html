@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{pigcms:$rttype['name']}</title>
+<meta content="no-cache,must-revalidate" http-equiv="Cache-Control">
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<link rel="stylesheet" type="text/css" href="{pigcms::STATICS}/vhouse/amazeui.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="{pigcms::STATICS}/vhouse/online_booking.css" media="all">
+<link rel="stylesheet" type="text/css" href="{pigcms::STATICS}/vhouse/wap/common.css" media="all">
+<link rel="stylesheet" href="{pigcms::STATICS}/schools/css/plugmenu.css">
+<link href="{pigcms::STATICS}/schools/css/news3_3.css" rel="stylesheet" type="text/css" />
+<style>
+#ro li span{
+  display:-webkit-inline-box;
+}
+#ro li img{
+  width:100%!important;
+}
+#userinfos p {
+  color:blue;
+}
+.round li p{
+  font-size: 14px;
+}
+</style>
+
+</head>
+
+<body onselectstart="return true;" ondragstart="return false;">
+
+<include file="RentCar:menu"/>
+<p></p><br><br>
+
+<div class="cardexplain">
+
+<ul class="round roundyellow">
+<li class="addr"><span style="width: 260px;">订单详情.</span></li>
+    <li class="userinfo" id="userinfos" style="padding-left:10px;">
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">订单号：<strong>{pigcms:$orderdet['orderid']}</strong></p>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">订单类型：<strong>{pigcms:$renttype['name']}</strong></p>
+      <if condition="$renttype['group'] eq '20'">
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">车型：<strong>{pigcms:$rentitem['name']}</strong></p>
+      </if>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">预约人：<strong>{pigcms:$orderdet['truename']}</strong></p>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">电话：<a href="tel:{pigcms:$orderdet['tel']}"><strong>{pigcms:$orderdet['tel']}</strong></a></p>
+      <if condition="$renttype['group'] eq '10'">
+        <a id="curaddress" href="javascript: void(0)"><p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">当前位置：<strong style="color:green">{pigcms:$curaddr['name']}</strong></p></a>
+        <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">出发地：<strong>{pigcms:$begin}</strong></p>
+        <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">目的地：<strong>{pigcms:$end}</strong></p>
+        <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">顺风车：<strong><if condition="$orderdet['number'] eq 1">是<else/>否</if></strong></p>
+      </if>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">价格: <strong>{pigcms:$orderdet['payprice']} RMB</strong></p>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">是否付款: <if condition="$orderdet['paid'] eq 1"><strong>已付款</strong><else/><strong style="color:red">未付款</strong></if></p>
+      <if condition="$renttype['group'] neq '10'">
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">预约时间:  <strong>{pigcms:$orderdet['dateline']}</strong></p>
+      </if>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">备注:  <strong>{pigcms:$orderdet['info']}</strong></p>
+      <p style="border: solid 1px rgb(201, 197, 197);margin: 5px;padding:4px;">下单时间:  <strong>{pigcms:$orderdet['booktime']|date='Y-m-d H:i:s',###}</strong></p>
+    </li>
+</ul>
+
+<if condition="$custpermission eq 1">
+<form action="" method="post" id="formID">
+  <ul class="round">
+    <li class="title mb"><span class="none">订单管理.</span></li>
+    <li class="nob" id="rematea">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="kuang">
+        <tbody><tr>
+          <th>订单状态</th>
+          <td><select name="remate" id="remate" class="px">
+             <option value="0" <if condition="$orderdet['remate'] eq 0">selected="selected"</if>>待处理</option>
+             <option value="1" <if condition="$orderdet['remate'] eq 1">selected="selected"</if>>进行中</option>
+             <option value="2" <if condition="$orderdet['remate'] eq 2">selected="selected"</if>>完成</option>
+            </select></td>
+        </tr>
+      </tbody></table>
+    </li>
+    <li class="nob" id="kfinfoa">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="kuang">
+        <tbody><tr>
+          <th>订单备注</th>
+          <td><textarea name="kfinfo" type="text" class="px" id="kfinfo" placeholder="客服回复订单备注">{pigcms:$orderdet['kfinfo']}</textarea></td>
+        </tr>
+      </tbody></table>
+    </li>
+
+  </ul>
+    <div class="footReturn">
+      <input id="showcard" class="submit" value="保 存" type="submit" style="width: 100%">
+    </div>
+  </form>
+</if>
+</div>
+
+
+<br/>
+<div class="footerWrapper" style="padding-left: 30%;">
+
+    <span class="copyright">
+    <if condition="$iscopyright eq 1">
+    {pigcms:$homeInfo.copyright}
+    <else/>
+    {pigcms:$siteCopyright}
+    </if>
+    </span>
+</div>
+<include file="Index:styleInclude"/><include file="$cateMenuFileName"/>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/jquery.min.js"></script>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/amazeui.min.js"></script>
+<script type="text/javascript">
+    window.onload = function () {
+        var oWin = document.getElementById("win");
+        var oLay = document.getElementById("overlay");
+        var oBtn = document.getElementById("popmenu");
+        var oClose = document.getElementById("close");
+        var btaddress1 = document.getElementById("curaddress");
+        var lat=parseFloat("<?php echo $curaddr['X'] ?>");
+        var lon=parseFloat("<?php echo $curaddr['Y'] ?>");
+
+        oBtn.onclick = function () {
+            oLay.style.display = "block";
+            oWin.style.display = "block";
+            //oWin.style.zIndex = 99999;
+        };
+        oLay.onclick = function () {
+            oLay.style.display = "none";
+            oWin.style.display = "none";
+        };
+        btaddress1.onclick = function() {
+            wx.openLocation({
+                latitude: lat, // 纬度，浮点数，范围为90 ~ -90
+                longitude: lon, // 经度，浮点数，范围为180 ~ -180。
+                name: "<?php echo $curaddr['name'] ?>", // 位置名
+                address: "<?php echo $curaddr['name'] ?>", // 地址详情说明
+                scale: 16, // 地图缩放级别,整形值,范围从1~28。默认为最大
+                infoUrl: '' // 在查看位置界面底部显示的超链接,可点击跳转
+            });
+        };
+    }
+</script>
+<script type="text/javascript">
+window.shareData = {  
+            "moduleName":"RentCar",
+            "imgUrl": 'http://ylst.kmdx.cn/uploads/y/ymluzb1442734296/0/2/8/8/thumb_56318e38498fe.jpg', 
+            "sendFriendLink": window.location.href,
+            "tTitle": "单号:<?php echo ($orderdet['orderid']); ?>",
+            "tContent": "<?php echo ($renttype['name']); ?>，由<?php echo ($orderdet['truename']); ?>于<?php echo ($orderdet['strbooktime']); ?>下单"
+        };
+</script>
+<script>
+   $('#plug-wrap').removeClass();
+</script>
+<style>
+    #plug-wrap{z-index: 0}
+</style>
+    <div style="display: none">
+    </div>
+</body></html>

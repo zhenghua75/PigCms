@@ -1,0 +1,31 @@
+<?php 
+return array (
+  'site_name' => '意路视通',
+  'site_title' => '意路视通',
+  'site_logo' => 'http://ylst.kmdx.cn/uploads/a/admin/3/9/8/2/thumb_54b7c16a9b9a3.png',
+  'site_url' => 'http://ylst.kmdx.cn',
+  'site_twm' => '',
+  'site_my' => '意路视通',
+  'server_key' => '8f2528909ecc7715b0166ed8345bd232',
+  'appid' => 'wxd990499022ff7e8d',
+  'secret' => '2538515f535d70c651ec76a3ac93bc01',
+  'server_topdomain' => 'kmdx.cn',
+  'connectout' => '超出请求上限，请联系意路视通',
+  'ischeckuser' => 'false',
+  'reg_needmp' => 'true',
+  'open_biz' => '1',
+  'reg_groupid' => '1',
+  'reg_validdays' => '3',
+  'router_key' => '',
+  'ipc' => '滇ICP备11001821号-1',
+  'site_qq' => '454836950',
+  'site_mp' => '18669032733',
+  'baidu_map_api' => '3mYvVYIZ044KkoqC4tOZf7Vr',
+  'site_email' => 'ylst@kmdx.cn',
+  'keyword' => '意路视通',
+  'content' => '“意路视通让生意更轻松”！ 
+“创业路上，若有意路视通相伴，感动与惊喜随之而来”！
+拥有意路视通，傍大款（BAT）很成功！',
+  'countsz' => '',
+  'copyright' => '昆明道讯科技有限公司',
+);

@@ -1,0 +1,147 @@
+<include file="Public:head"/>
+<script src="/tpl/static/artDialog/jquery.artDialog.js?skin=default"></script>
+<script src="/tpl/static/artDialog/plugins/iframeTools.js"></script>
+<script src="/tpl/static/upyun.js?2013"></script>
+ <div class="content" <if condition="session('isQcloud') eq true">style="float:center;"</if>>
+          <div class="cLineB"><h4>添加自定义菜单</h4><a href="javascript:history.go(-1);"  class="right btnGrayS vm" style="margin-top:-27px" >返回</a></div> 
+<div class="msgWrap">
+  <form class="form" method="post"  id="realinfo_form" action="{pigcms::U('Diymen/class_add')}">
+<TABLE class="userinfoArea" style=" margin:20px 0 0 0;" border="0" cellSpacing="0" cellPadding="0" width="100%">
+  <THEAD>
+<TR>
+  <TH valign="top"><label for="keyword">菜单名称：</label></TH>
+	<td>
+		<div class="mr15 l">
+		<input id="menu_title" class="px" name="title" title="主菜单名称" value="" type="text">	
+		</div>
+		<div class="system l"></div>
+	</td>
+  <TD>&nbsp;</TD>
+</TR>
+                            </THEAD>
+  <TBODY>
+
+<TR>
+  <TH valign="top"><label for="keyword">父级菜单：</label></TH>
+      <td>
+        <div class="mr15 l">
+        <select name="pid" id="pid">
+          <option selected="selected" value="0">请选择父菜单：</option>
+          <volist id="class" name="class">
+            <option  value="{pigcms:$class.id}">{pigcms:$class.title}</option>
+          </volist>
+        </select>
+        二级菜单需要选择父菜单
+        </div>
+      </td>
+  <TD>&nbsp;</TD>
+</TR>
+<tr>
+  <th align="right" height="30" width="100">菜单类型：</th>
+  <td>
+    <div class="mr15 l">
+    <select name="menu_type" class="menu_type">
+      <option value="1">关键词回复菜单</option>    
+      <option value="2">url链接菜单</option>
+      <option value="3">微信扩展菜单</option>
+    </select>
+    </div>
+  </td>
+</tr> 
+<TR class="keyword">
+  <TH align="right" height="30" width="">关联关键词：</TH>
+  <td>
+    <div class="mr15 l">
+      <input id="menu_keyword" class="px" name="keyword" title="关联关键词" value="" type="text" style="width:500px"> 
+      <a href="###" onclick="addLink('menu_keyword',1)" class="a_choose">从功能库添加</a>
+    </div>
+    <div class="system l"></div>
+    
+  </td>
+</TR>
+<tr  style="display:none;"  class="url">
+  <th align="right" height="30" width="">外链接url：</th>
+  <td>
+    <div class="mr15 l"><input id="menu_key" class="px" name="url" size="60" title="外链接url" value="" type="text"><a href="###" onclick="addLink('menu_key',0)" class="a_choose">从功能库添加</a><br/>非认证服务号或未开启用户授权请不要填写本站url (<span style="color:red">微信自定义菜单已不支持一键拨号</span>)</div>
+    <div class="system l"></div>
+  </td>
+</tr>
+<tr  style="display:none;" class="wxsys">
+  <th align="right" height="30" width="">扩展菜单：</th>
+  <td>
+    <div class="mr15 l">
+      <select name="wxsys">
+        <option value="">请选择..</option>
+        <volist name="wxsys" id="wxsys">
+          <option value="{pigcms:$wxsys}">{pigcms:$wxsys}</option>
+        </volist>
+      </select>
+    </div>
+    <div class="system l"></div>
+  </td>
+</tr>
+<input type="hidden" value="{pigcms:$token}" name="token">
+<TR>
+  <TH valign="top"><label for="keyword">排序：</label></TH>
+  <td>
+    <div class="mr15 l">
+    <input id="sortid" class="px" name="sort" title="排序" value="" type="text"></div>
+    <div class="system l"></div>
+  </td>
+  <TD>&nbsp;</TD>
+</TR>
+<TR>
+  <TH valign="top"><label for="keyword">是否显示：</label></TH>
+  <td>
+    <div class="mr15 l">
+    <input type="radio" name="is_show" checked="checked" value="1">是&nbsp;
+    <input type="radio" name="is_show" value="0">否&nbsp;
+    </div>
+    <div class="system l"></div>
+  </td>
+  <TD>&nbsp;</TD>
+</TR>
+<TR>
+  <TH></TH>
+  <TD><button type="submit"  name="submit"  class="btnGreen left" >保存</button>
+    <div class="clr"></div>
+    </TD>
+  </TR>
+<script>
+$(function(){
+	$('.menu_type').change(function(){
+		var val 	= $(this).val();
+		if(val == 1){
+			$('.keyword').css('display','');
+			$('.wxsys').css('display','none');
+			$('.url').css('display','none');
+		}else if(val == 2){
+			$('.keyword').css('display','none');
+			$('.wxsys').css('display','none');
+			$('.url').css('display','');		
+		}else if(val == 3){
+
+			$('.keyword').css('display','none');
+			$('.wxsys').css('display','');
+			$('.url').css('display','none');
+		}
+	});
+});
+</script>
+  </TBODY>
+</TABLE>
+  </form>
+  </div> 
+
+        </div>
+        
+        <div class="clr"></div>
+      </div>
+    </div>
+  </div> 
+
+<!--底部-->
+    </div>
+<if condition="session('isQcloud') neq true">
+<include file="Public:footer"/>
+</if>

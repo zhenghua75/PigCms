@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<title>会员系统入口</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<script type="text/javascript" src="/tpl/User/default/common/js/select/js/jquery.js"></script>
+<script src="/tpl/static/artDialog/jquery.artDialog.js?skin=default"></script>
+<script src="/tpl/static/artDialog/plugins/iframeTools.js"></script>
+<script src="/tpl/static/upyun.js?2013"></script>
+
+<style type="text/css">
+#lean_overlay {
+	position: fixed;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	background: #000;
+	display: none;
+} 
+#OpenWindow {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+	display: block;
+	padding-bottom: 2px;
+	width: 90%;
+	margin:auto;
+	z-index: 11000;
+	/*left: 30%;
+	position: fixed;*/
+	opacity: 1;
+	top: 10px;
+}
+#OpenWindow-header {
+	background: #E5E5E5;
+	border-bottom: 1px solid #CCCCCC;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 18px 18px 14px;
+}
+#OpenWindow-header p{
+	color:#666;
+}
+/*.modal_close {
+	background: url("/tpl/static/images/modal_close.png") repeat scroll 0 0 transparent;
+	display: block;
+	height: 14px;
+	position: absolute;
+	right: 12px;
+	top: 12px;
+	width: 14px;
+	z-index: 2;
+}*/
+body {
+	font-size: 13px;
+}
+#OpenWindow .txt-fld {
+	border-bottom: 1px solid #EEEEEE;
+	padding: 14px 0px;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+#OpenWindow .txt-fld input {
+	background: none repeat scroll 0 0 #F7F7F7;
+	border-color: #CCCCCC #E7E6E6 #E7E6E6 #CCCCCC;
+	border-radius: 4px 4px 4px 4px;
+	border-style: solid;
+	border-width: 1px;
+	color: #222222;
+	font-family: "Helvetica Neue";
+	font-size: 1.2em;
+	outline: medium none;
+	padding: 8px;
+	width: 90%;
+}
+
+#OpenWindow .btn-fld,.btn-fld {
+	overflow: hidden;
+	padding: 12px 20px;
+	text-align: center;
+}
+
+#OpenWindow .btn-fld a,.btn-fld a{
+	color:#666;
+	text-decoration: none;
+}
+
+button {
+	background: none repeat scroll 0 0 #3F9D4A;
+	border: medium none;
+	border-radius: 4px 4px 4px 4px;
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 18px;
+	font-weight: bold;
+	overflow: visible;
+	padding: 7px 10px;
+	width:80%;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+/* Start Dropdown Select */
+.dropdown-select {
+	-webkit-appearance: button; 
+	-webkit-user-select: none;  
+	overflow: visible; 
+	text-overflow: ellipsis; 
+	white-space: nowrap;
+	display: inline;
+	height: auto; 
+	background: none repeat scroll 0 0 #F7F7F7;	
+	background: none repeat scroll 0 0 #F7F7F7;
+	border-color: #CCCCCC #E7E6E6 #E7E6E6 #CCCCCC;
+	border-radius: 4px 4px 4px 4px;
+	border-style: solid;
+	border-width: 1px;
+	color: #222222;
+	font-family: "Helvetica Neue";
+	font-size: 1.2em;
+	outline: medium none;
+	padding: 8px;
+	width: 90%;
+}
+.dropdown-option {color: #999;background-color: transparent;}
+
+.por{width:65px;float:left;height:65px;}
+.por img{width:60px;height:60px;cursor:pointer}
+.por img.selected{border:2px solid #f60}
+</style>
+
+</head>
+<body>
+<if condition="ACTION_NAME eq 'memberLogin'">
+
+	<div id="OpenWindow">
+		<div id="signup-ct">
+			    <div id="OpenWindow-header">
+			        <h2>登录</h2>
+			        <p>您好，由于系统无法获取您的信息，请使用您的账户登录</p>
+			        <a href="#" class="modal_close"></a>
+			    </div>
+			<form action="" method="post">
+
+			    <div class="txt-fld">
+			        <input type="text" name="username" placeholder="用户名" />
+			    </div>
+
+			    <div class="txt-fld">
+			        <input type="password" name="password" placeholder="密码" />
+			    </div>
+
+			    <div class="txt-fld">
+			        <button type="submit">登 录</button>
+			    </div>
+
+			</form>
+			<if condition="$nonregist neq 1"><div class="btn-fld"><a href="{pigcms::U('Index/memberReg',array('token'=>$token))}">还没有账号？立即注册</a></div></if>
+		</div>
+	</div>
+
+<else />
+
+<style>
+.por{width:65px;float:left;height:65px;}
+.por img{width:60px;height:60px;cursor:pointer}
+.por img.selected{border:2px solid #f60}
+</style>
+<script>
+function selectpor(el){
+	$("#portrait").val(el.src);
+	$('#pors img').removeClass('selected');
+	$('#portrait_src').attr('src',el.src);
+	el.className='selected';
+}
+</script>
+
+	<div id="OpenWindow">
+		<div id="signup-ct">
+			    <div id="OpenWindow-header">
+			    <if condition="$pubusname eq NULL">
+			        <h2>注册</h2>
+			        <p style='color:blue;'><span style="font-weight:bold;">您好!</span>请创建您的会员账户！ </p>
+			    <else />
+			    	<h2>完善个人信息</h2>
+			    	<p>您好，请您完善个人信息</p>
+			    </if>
+			        <a href="#" class="modal_close"></a>
+			    </div>
+
+			<form action="<if condition="$pubusname neq NULL">{pigcms::U('Index/profile',array('token'=>$token))}</if>" method="post">
+
+	                    <div class="txt-fld"><input type="text" value="{pigcms:$UserInfo.username}" placeholder="用户名" name="username" /></div>
+	                    <div class="txt-fld"><input type="text" value="{pigcms:$UserInfo.tel}" placeholder="请输入您的手机号" name="tel" /></div>
+	                    <div class="txt-fld"><input type="password" placeholder="请设置您的密码" name="password" /></div>
+	                    <div class="txt-fld"><input type="password" placeholder="请输入您的确认密码" name="password2" /></div>
+	                <volist name="custom" id="custom">
+	                	<if condition="$custom['1'] neq 0">
+
+	                   		<eq name="custom[0]" value="sex">
+	                   			<div class="txt-fld">
+	                   			<select name="sex" class="dropdown-select" id="sex">
+		                   			<option class="dropdown-option" selected="true" disabled="true" value="">请选择您的性别</option>
+		                   			<option <eq name="UserInfo['sex']" value="1" >selected</eq> value="1">男</option>
+		                   			<option <eq name="UserInfo['sex']" value="2" >selected</eq> value="2"> 女</option>
+		                   			<option <eq name="UserInfo['sex']" value="3" >selected</eq> value="3">其他</option>
+	                   			</select>
+	                   			</div>
+	                   	<elseif condition="$custom[0] eq 'portrait'" />
+	                   		<div class="txt-fld" style="padding:10px;">
+		                   		<input type="hidden" value="{pigcms:$UserInfo.portrait|default='/tpl/User/default/common/images/portrait.jpg'}" id="portrait" name="portrait" size="80" />
+		                   		 <a href="###" onclick="upyunWapPicUpload('portrait',200,200,'{pigcms:$Think.get.token}')" class="a_upload" style="color:red">点击这里上传</a>
+		                   		<div class="por"><img src="{pigcms:$UserInfo.portrait|default='/tpl/User/default/common/images/portrait.jpg'}" id="portrait_src" /></div>
+		                   		<div style="clear:both"></div>
+		                   		或者选择下面头像
+		                   		<div style="margin:10px 0 20px 0" id="pors">
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/1.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/2.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/3.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/4.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/5.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/6.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/7.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/8.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/9.jpg" /></div>
+		                   		<div class="por"><img onclick="selectpor(this)" src="/tpl/static/portrait/10.jpg" /></div>
+		                   		<div style="clear:both"></div>
+		                   		</div>
+		                   	</div>
+						<elseif condition="$custom[0] eq 'area'" />
+							<div class="txt-fld">
+								<select name="province" class="dropdown-select" id="province" onchange="getcity(this.value)">
+									<option value="0" class="dropdown-option" selected="true" disabled="true">请选择您的省份</option>
+									<volist name="area['province']" id='vo'>
+										<option value={pigcms:$vo.region_id} <if condition="$userinfoexp['province'] eq $vo['region_id']">selected</if>>{pigcms:$vo.region_name}</option>
+									</volist>
+								</select>
+							</div>
+							<div class="txt-fld">
+								<select name="city" class="dropdown-select" id="city" onchange="getcountry(this.value)">
+									<option value="0" class="dropdown-option" selected="true" disabled="true">请选择您的城市</option>
+								</select>
+							</div>
+
+							<div class="txt-fld">
+								<select name="country" class="dropdown-select" id="country">
+									<option value="0" class="dropdown-option" selected="true" disabled="true">请选择您的区县</option>
+								</select>
+							</div>
+	                   	<else />
+		                   		<div class="txt-fld">
+		                   			<input type="{pigcms:$custom.3}" value="{pigcms:$custom.4}" placeholder="{pigcms:$custom.2}" name="{pigcms:$custom.0}" />
+		                   		</div>
+	                   		</eq>
+	                	</if>
+	                </volist>
+						 <div class="txt-fld"><button type="submit" class="btn-large btn-large mj-submit mj-submit"> <if condition="$pubusname eq NULL">注册<else />保存</if></button></div>
+			</form>
+			<div class="btn-fld"><a href="{pigcms::U('Index/memberLogin',array('token'=>$token))}">我已有账号，立即登录</a></div>
+		</div>
+	</div>
+</if>
+
+		<if condition="$nonregist neq 1">
+		<div class="btn-fld" style="margin-top:30px">
+			<a href="{pigcms::U('Index/index',array('token'=>$token))}" style="color:#ccc">我不想成为会员了，让我返回首页</a>
+		</div>
+		</if>
+<script language="javascript" type="text/javascript">
+function getcity(id){
+	var city=document.getElementById('city');
+	var country=document.getElementById('country');  
+	city.length=0;
+	country.length=0;
+	if(id==0){
+		var opt=new Option('请选择你的城市',0);  
+		city.add(opt,null);
+		opt=new Option('请选择你的区县',0);  
+		country.add(opt,null); 
+	}
+	else{
+		$.ajax({
+			url:'index.php?g=Wap&m=Index&a=getcitycounty&token={pigcms:$token}',
+			type:"post",
+			data:{'id':id, 'type':'city'},
+			dataType:"json",
+			success: function(res){
+				if(res){
+					$.each(res['city'], function(i,val){
+						var opt=new Option(val.region_name,val.region_id);  
+						city.add(opt,null); 
+					});
+					$.each(res['country'], function(i,val){
+						var opt=new Option(val.region_name,val.region_id);  
+						country.add(opt,null); 
+					});
+				}
+			}
+		});
+	}
+}
+function getcountry(id){
+	var country=document.getElementById('country');  
+	country.length=0;
+	$.ajax({
+		url:'index.php?g=Wap&m=Index&a=getcitycounty&token={pigcms:$token}',
+		type:"post",
+		data:{'id':id, 'type':'country'},
+		dataType:"json",
+		success: function(res){
+			if(res){
+				$.each(res, function(i,val){
+					var opt=new Option(val.region_name,val.region_id);  
+					country.add(opt,null); 
+				});
+			}
+		}
+	});
+}  
+</script> 
+</body>
+</html>

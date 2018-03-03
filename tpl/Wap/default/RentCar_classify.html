@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>{pigcms:$info['title']}</title>
+    <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="{pigcms::STATICS}/vhouse/amazeui.min.css" media="all">
+    <link rel="stylesheet" href="{pigcms::STATICS}/schools/css/plugmenu.css">
+    <link href="{pigcms::STATICS}/schools/css/listhome3_3.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<style>
+
+</style>
+<body id="listhome3">
+    <div id="mcover" onclick="document.getElementById('mcover').style.display='';" style="display: none;">
+        <img src="{pigcms::STATICS}/schools/images/guide.png"></div>
+
+<include file="RentCar:menu"/>
+
+<div class="Listpage">
+    <div class="top46">
+    </div>
+    <div id="todayList" >
+        <ul class="chatPanel">
+            <volist name='classify' id="vo">
+                <li class="media mediaFullText">
+                    <if condition="$vo['group'] eq '20'">
+                    <a href="{pigcms::U('RentCar/classify_item',array('token'=>$token,'wecha_id'=>$wecha_id,'tid'=>$vo['tid']))}">
+                    <elseif condition="$vo['group'] eq '10'" />
+                    <a href="#" id="shortclose" class="js-modal-open">
+                    <else />
+                    <a href="{pigcms::U('RentCar/goCart',array('token'=>$token,'wecha_id'=>$wecha_id,'tid'=>$vo['tid'],'sid'=>$vo['sid']))}">
+                    </if>
+                    <div class="mediaPanel">
+                        <div class="mediaHead">
+                            <span class="title">{pigcms:$vo['name']}</span>
+                            <div class="clr">
+                            </div>
+                        </div>
+                    <if condition="$vo['picurl'] neq ''">
+                        <div class="mediaImg"><img src="{pigcms:$vo['picurl']}"></div>
+                    </if>
+                        <div class="mediaContent mediaContentP">
+                            <p>
+                               {pigcms:$vo['second_desc']|html_entity_decode|strip_tags|mb_substr=0,89,'utf-8'}...
+                            </p>
+                        </div>
+                        <div class="mediaFooter">
+                            <span class="mesgIcon right"></span><span class="left" style="line-height: 50px;">查看全文</span>
+                            <div class="clr">
+                            </div>
+                        </div>
+                    </div>
+                </a></li>
+            </volist>
+        </ul>
+    </div>
+</div>
+<div class="am-modal am-modal-confirm" tabindex="-1" id="my-confirm">
+  <div class="am-modal-dialog">
+    <div class="am-modal-hd">代驾租车</div>
+    <div class="am-modal-bd">
+      点击“确定”，将进入赤兔马公众号，请选择公众号底部菜单中“租车”->“代驾租车”，然后发送“出发地”位置信息。
+    </div>
+    <div class="am-modal-footer">
+      <span class="am-modal-btn" data-am-modal-cancel>取消</span>
+      <span class="am-modal-btn" data-am-modal-confirm>确定</span>
+    </div>
+  </div>
+</div>
+
+<style>
+    #plug-wrap{z-index: 0}
+</style>
+<p style="margin-left:10%;margin-top: 10px;">
+{pigcms:$page}
+</p>
+
+
+<div class="pagination">
+    <script src="{pigcms::STATICS}/schools/js/zepto.min.js" type="text/javascript"></script>
+    <script src="{pigcms::STATICS}/schools/js/plugmenu.js" type="text/javascript"></script>
+    <div class="copyright">
+      <span class="copyright">
+    <if condition="$iscopyright eq 1">
+    {pigcms:$homeInfo.copyright}
+    <else/>
+    {pigcms:$siteCopyright}
+    </if>
+    </span></div>
+
+
+</div>
+<include file="Index:styleInclude"/><include file="$cateMenuFileName"/>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/jquery.min.js"></script>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/amazeui.min.js"></script>
+<script type="text/javascript">
+    window.onload = function () {
+        var oWin = document.getElementById("win");
+        var oLay = document.getElementById("overlay");
+        var oBtn = document.getElementById("popmenu");
+        var oClose = document.getElementById("close");
+        var shclose = document.getElementById("shortclose");
+        oBtn.onclick = function () {
+            oLay.style.display = "block";
+            oWin.style.display = "block"
+        };
+        oLay.onclick = function () {
+            oLay.style.display = "none";
+            oWin.style.display = "none"
+        };
+        shclose.onclick = function() {
+          $('#my-confirm').modal({
+            relatedTarget: this,
+            onConfirm: function() {
+              wx.closeWindow();
+            }
+          });
+        };
+    };
+</script>
+<script>
+   $('#plug-wrap').removeClass();
+</script>
+<style>
+    #plug-wrap{z-index: 0}
+</style>
+    <div style="display: none">
+    </div>
+</body>
+</html>

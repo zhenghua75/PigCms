@@ -1,0 +1,153 @@
+<include file="Public:head"/>  
+<script src="/tpl/static/artDialog/jquery.artDialog.js?skin=default"></script>
+<script src="/tpl/static/artDialog/plugins/iframeTools.js"></script>
+<script src="{pigcms::RES}/js/cart/jscolor.js" type="text/javascript"></script>
+<div class="content">
+<div class="cLineB">
+<h4 class="left">会员中心</h4>
+<div class="searchbar right">
+</div>
+<div class="clr"></div>
+</div>
+<div class="cLine">
+<form method="post"  action="" id="info" >
+	会员卡类型
+	<select name="cardid">
+		<option value="">请选择..</option>
+		<volist name="cards" id="cards">
+			<option value="{pigcms:$cards.id}">{pigcms:$cards.cardname}</option>
+		</volist>
+	</select>
+	省份
+	<select name="province" id="province" onchange="getcity(this.value)">
+		<option value="0">请选择..</option>
+		<volist name="area['province']" id="vo">
+			<option value="{pigcms:$vo.region_id}">{pigcms:$vo.region_name}</option>
+		</volist>
+	</select>
+	城市
+	<select name="city" id="city" onchange="getcountry(this.value)">
+		<option value="0">请选择..</option>
+		<volist name="area['city']" id="vo">
+			<option value="{pigcms:$vo.region_id}">{pigcms:$vo.region_name}</option>
+		</volist>
+	</select>
+	区县
+	<select name="country" id="country">
+		<option value="0">请选择..</option>
+		<volist name="area['country']" id="vo">
+			<option value="{pigcms:$vo.region_id}">{pigcms:$vo.region_name}</option>
+		</volist>
+	</select>
+	关键词：
+	<input type="text" class="px" name="number" value="" style="height:25px;" placeholder="请输入会员卡号">
+	<input type="submit" class="btnGrayS" value="搜索">
+</form>
+<div class="clr"></div>
+</div>
+<div class="msgWrap">
+<form method="post"  action="" id="info" >
+<TABLE class="ListProduct" border="0" cellSpacing="0" cellPadding="0" width="100%">
+<THEAD>
+<tr>
+<th width="80">昵称</th>
+<th width="80">真实姓名</th>
+<th width="80">会员帐号</th>
+<th width="80">会员卡号</th>
+<th width="150">会员卡类型</th>
+<th width="120">手机号</th>
+<th width="100">领卡时间</th>
+<th width="80">积分</th>
+<th width="80">消费</th>
+<th width="80">余额</th>
+<th width="80">属地</th>
+<th width="80">操作</th>
+</tr>
+</THEAD>
+<TBODY>
+<TR></TR>
+<volist id="item" name="allCard">
+<TR>
+<TD>{pigcms:$item.wechaname}</TD>
+<TD>{pigcms:$item.truename}</TD>
+<TD>{pigcms:$item.username}</TD>
+<TD><if condition="$item.number eq ''">未领卡<else/>{pigcms:$item.number}</if></TD>
+<TD>{pigcms:$item.card_name}</TD>
+<TD>{pigcms:$item.tel}</TD>
+<TD><if condition="$item.createtime eq 0">无时间记录<else/>{pigcms:$item.createtime|date='Y-m-d',###}</if></TD>
+<TD>{pigcms:$item.score}</TD>
+<TD>{pigcms:$item.expense}</TD>
+<TD>{pigcms:$item.balance}</TD>
+<TD>{pigcms:$item.area}</TD>
+<TD><a href="{pigcms::U('Member_card/member',array('token'=>$this->token,id=>$item['cardid'],'itemid'=>$item['id']))}">消费记录</a></TD>
+</TR>
+</volist>
+</TBODY>
+</TABLE>
+</form>
+
+</div>
+<script language="javascript" type="text/javascript">
+function getcity(id){
+	var city=document.getElementById('city');
+	var country=document.getElementById('country');  
+	city.length=0;
+	country.length=0;
+	if(id==0){
+		var opt=new Option('请选择你的城市',0);  
+		city.add(opt,null);
+		opt=new Option('请选择你的区县',0);  
+		country.add(opt,null); 
+	}
+	else{
+		$.ajax({
+			url:'index.php?g=Wap&m=Userinfo&a=getcitycounty&token={pigcms:$token}',
+			type:"post",
+			data:{'id':id, 'type':'city'},
+			dataType:"json",
+			success: function(res){
+				if(res){
+					$.each(res['city'], function(i,val){
+						var opt=new Option(val.region_name,val.region_id);  
+						city.add(opt,null); 
+					});
+					$.each(res['country'], function(i,val){
+						var opt=new Option(val.region_name,val.region_id);  
+						country.add(opt,null); 
+					});
+				}
+			}
+		});
+	}
+}
+function getcountry(id){
+	var country=document.getElementById('country');  
+	country.length=0;
+	$.ajax({
+		url:'index.php?g=Wap&m=Userinfo&a=getcitycounty&token={pigcms:$token}',
+		type:"post",
+		data:{'id':id, 'type':'country'},
+		dataType:"json",
+		success: function(res){
+			if(res){
+				$.each(res, function(i,val){
+					var opt=new Option(val.region_name,val.region_id);  
+					country.add(opt,null); 
+				});
+			}
+		}
+	});
+}  
+</script> 
+<div class="cLine">
+<div class="pageNavigator right">
+<div class="pages">{pigcms:$page}</div>
+</div>
+<div class="clr"></div>
+</div>
+</div>  
+        <div class="clr"></div>
+		<include file="Public:footer"/>
+      </div>
+    </div>
+  </div> 

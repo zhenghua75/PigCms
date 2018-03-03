@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+<title>自驾租车</title>
+
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+<meta name="format-detection" content="telephone=no">
+<meta charset="utf-8">
+<link href="./tpl/static/tpl/187/css/cate.css" rel="stylesheet" type="text/css" />
+<link href="./tpl/static/tpl/com/css/iscroll.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="{pigcms::STATICS}/schools/css/plugmenu.css">
+<link href="{pigcms::STATICS}/schools/css/listhome3_3.css" rel="stylesheet" type="text/css" />
+<script src="./tpl/static/tpl/com/js/iscroll.js" type="text/javascript"></script>
+
+<style>
+body .mainmenu li a p b{
+	font-size: 16px;
+	margin-top: 0px;
+	width:100%;
+}
+body .mainmenu li a p b.itemname{
+	float: left;
+	width:80%;
+	font-size: 18px;
+}
+body .mainmenu li a p em{
+	float: right;
+	margin-top: 7px;
+}
+body .mainmenu li a p span{
+	white-space: normal;
+}
+</style>
+</head>
+<body id="listhome3">
+<include file="RentCar:menu"/>
+<div class="Listpage">
+    <div class="top46">
+    </div>
+    <div id="todayList" >
+ <div id="insert1" ></div>
+<ul  class="mainmenu">
+    <volist name="sec_item" id="vo">
+        <li><a href="{pigcms::U('RentCar/goCart',array('token'=>$vo['token'],'tid'=>$vo['tid'],'sid'=>$vo['sid']))}" ><img src="{pigcms:$vo.picurl}" /><p><b class="itemname">{pigcms:$vo.name}</b><em></em><b>{pigcms:$vo.oneprice} RMB</b><span>{pigcms:$vo.second_desc}</span></p></a></li>  
+    </volist>    
+
+</ul>
+</div>
+</div>
+<div class="copyright">
+<if condition="$iscopyright eq 1">
+{pigcms:$homeInfo.copyright}
+<else/>
+{pigcms:$siteCopyright}
+</if>
+</div>  <include file="Index:styleInclude"/><include file="$cateMenuFileName"/>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/jquery.min.js"></script>
+<script type="text/javascript" src="{pigcms::STATICS}/vhouse/amazeui.min.js"></script>
+<script type="text/javascript">
+    window.onload = function () {
+        var oWin = document.getElementById("win");
+        var oLay = document.getElementById("overlay");
+        var oBtn = document.getElementById("popmenu");
+        var oClose = document.getElementById("close");
+        var shclose = document.getElementById("shortclose");
+        oBtn.onclick = function () {
+            oLay.style.display = "block";
+            oWin.style.display = "block"
+        };
+        oLay.onclick = function () {
+            oLay.style.display = "none";
+            oWin.style.display = "none"
+        };
+        shclose.onclick = function() {
+          $('#my-confirm').modal({
+            relatedTarget: this,
+            onConfirm: function() {
+              wx.closeWindow();
+            }
+          });
+        };
+    };
+</script>
+<script>
+   $('#plug-wrap').removeClass();
+</script>
+<style>
+    #plug-wrap{z-index: 0}
+</style>
+ </body>
+</html>

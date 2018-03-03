@@ -1,0 +1,29 @@
+<script type="text/javascript">
+window.shareData = {
+            "moduleName":"RentCar",
+            "moduleID":"0",
+            "imgUrl": "{pigcms:$picurl}",
+            "sendFriendLink": "{pigcms:$f_siteUrl}{pigcms::U(MODULE_NAME/ACTION_NAME,array('token'=>$token,'group'=>$_GET['group']))}",
+            "timeLineLink": "{pigcms:$f_siteUrl}{pigcms::U(MODULE_NAME/ACTION_NAME,array('token'=>$token,'group'=>$_GET['group']))}",
+            "tTitle": "{pigcms:$title} {pigcms:$sec_item['name']}",
+            "tContent": "{pigcms:$RentCar['business_desc']|html_entity_decode|strip_tags|mb_substr=0,89,'utf-8'}..."
+        };
+</script>
+{pigcms:$shareScript}
+
+    <div id="ui-header" >
+        <div class="fixed">
+            <a class="ui-title" id="popmenu">选择分类</a> <a class="ui-btn-left_pre" href="javascript:window.history.go(-1);">
+            </a><a class="ui-btn-right" href=""></a>
+        </div>
+    </div>
+    <div id="overlay"></div>
+<div id="win" >
+<ul class="dropdown">
+    <li ><a href="{pigcms::U('RentCar/classify',array('token'=>$token,'wecha_id'=>$wecha_id,'group'=>0))}"><span>租车</span></a></li>
+    <li ><a href="{pigcms::U('RentCar/classify',array('token'=>$token,'wecha_id'=>$wecha_id,'group'=>1))}"><span>其它</span></a></li>
+    <li ><a href="{pigcms::U('RentCar/mylist',array('token'=>$token,'wecha_id'=>$wecha_id,'type'=>'rentcar'))}"><span>我的订单</span></a></li>
+    <if condition="$custpermission eq 1"><li ><a href="{pigcms::U('RentCar/mgrorders',array('token'=>$token,'wecha_id'=>$wecha_id))}"><span>订单管理</span></a></li></if>
+    <div class="clr"></div>
+ </ul>
+</div>
